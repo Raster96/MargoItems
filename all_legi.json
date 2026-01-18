@@ -1,5 +1,5 @@
 {
-  "updated": "18.12.2025",
+  "updated": "18.01.2026",
   "data": [
     {
       "id": 56563,
@@ -934,7 +934,11 @@
       "cl": 11,
       "pr": 14839,
       "st": 0,
-      "stat": "ac=33;act=16;binds;da=18;dz=26;energybon=13;evade=8;heal=46;hp=165;legbon=curse,39;lvl=39;opis=Z nimi na dłoniach nie będzie ci straszne żadne miłosne rozstanie czy długa rozłąka![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=h;resfire=7;sa=47;slow=19"
+      "stat": "ac=33;act=16;binds;da=18;dz=26;energybon=13;evade=8;heal=46;hp=165;legbon=curse,39;lvl=39;opis=Z nimi na dłoniach nie będzie ci straszne żadne miłosne rozstanie czy długa rozłąka![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=h;resfire=7;sa=47;slow=19",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 59714,
@@ -943,7 +947,11 @@
       "cl": 11,
       "pr": 16359,
       "st": 0,
-      "stat": "absorb=104;absorbm=52;ac=30;act=6;binds;da=18;evade=8;heal=46;hp=165;legbon=puncture,39;lvl=39;manabon=25;opis=Podobno zadany nimi cios powoduje, że można zobaczyć gwiazdy... Ty  w walce wolisz jednak zachowywać bezpieczny dystans.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=mt;resfire=6;reslight=9;sa=37;slow=19"
+      "stat": "absorb=104;absorbm=52;ac=30;act=6;binds;da=18;evade=8;heal=46;hp=165;legbon=puncture,39;lvl=39;manabon=25;opis=Podobno zadany nimi cios powoduje, że można zobaczyć gwiazdy... Ty  w walce wolisz jednak zachowywać bezpieczny dystans.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=mt;resfire=6;reslight=9;sa=37;slow=19",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 59713,
@@ -952,7 +960,11 @@
       "cl": 11,
       "pr": 14132,
       "st": 0,
-      "stat": "ac=41;binds;da=18;energybon=25;evade=8;heal=46;hp=165;legbon=puncture,39;lvl=39;manabon=15;opis=Za każdym razem, gdy pierwsza gwiazdka zabłyśnie na niebie, czujesz niesamowity przypływ energii. Czy to zasługa tych rękawic, czy może twojej wiary w astrologię?[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=p;reslight=9;sa=37;slow=19"
+      "stat": "ac=41;binds;da=18;energybon=25;evade=8;heal=46;hp=165;legbon=puncture,39;lvl=39;manabon=15;opis=Za każdym razem, gdy pierwsza gwiazdka zabłyśnie na niebie, czujesz niesamowity przypływ energii. Czy to zasługa tych rękawic, czy może twojej wiary w astrologię?[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=p;reslight=9;sa=37;slow=19",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 59712,
@@ -961,7 +973,11 @@
       "cl": 11,
       "pr": 14132,
       "st": 0,
-      "stat": "ac=41;act=5;binds;da=18;energybon=38;evade=8;heal=46;hp=165;legbon=facade,39;lvl=39;opis=Poprzedni właściciel tych rękawic czekał na pojedynek tak długo, że zamarzł na kość. Nie pozwól, by historia ta się powtórzyła![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=bw;reslight=4;sa=37;slow=19"
+      "stat": "ac=41;act=5;binds;da=18;energybon=38;evade=8;heal=46;hp=165;legbon=facade,39;lvl=39;opis=Poprzedni właściciel tych rękawic czekał na pojedynek tak długo, że zamarzł na kość. Nie pozwól, by historia ta się powtórzyła![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=bw;reslight=4;sa=37;slow=19",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 56690,
@@ -1265,8 +1281,7 @@
       "cl": 13,
       "pr": 13464,
       "st": 0,
-      "stat": "binds;crit=4;critval=6;da=38;energybon=25;evade=8;heal=67;hp=232;legbon=glare,40;lvl=40;opis=Nazbyt wielka potęga antycznego amuletu doprowadzała jego właścicieli do szaleństwa. Szpon demonicznego bytu przeciął więc medalion na dwie części, a te - początkowo przechowywane razem - z biegiem czasu trafiły w różne części krainy. Goblinom udało się jednak zdobyć zarówno jasną jak i ciemną połowę artefaktu... Tylko jakie spoiwo da radę zaleczyć to demoniczne cięcie?;rarity=legendary;reqp=bhw;sa=48",
-      "extendedID": "34790@40"
+      "stat": "binds;crit=4;critval=6;da=38;energybon=25;evade=8;heal=67;hp=232;legbon=glare,40;lvl=40;opis=Nazbyt wielka potęga antycznego amuletu doprowadzała jego właścicieli do szaleństwa. Szpon demonicznego bytu przeciął więc medalion na dwie części, a te - początkowo przechowywane razem - z biegiem czasu trafiły w różne części krainy. Goblinom udało się jednak zdobyć zarówno jasną jak i ciemną połowę artefaktu... Tylko jakie spoiwo da radę zaleczyć to demoniczne cięcie?;rarity=legendary;reqp=bhw;sa=48"
     },
     {
       "id": 34438,
@@ -2680,8 +2695,7 @@
         "event",
         "autolvl",
         "event-autumn"
-      ],
-      "extendedID": "39733@51"
+      ]
     },
     {
       "id": 32658,
@@ -6291,8 +6305,7 @@
       "pr": 61963,
       "st": 0,
       "stat": "binds;crit=3;critval=18;dz=50;energybon=31;evade=8;heal=145;hp=498;legbon=lastheal,83;lowevade=8;lvl=83;opis=Za życia dowódca ithańskiego oddziału, w swej aktualnej formie marionetka w rękach krasnoludów... Gdy biedny Tervil zbłądził w krętych jaskiniach i trafił przed oblicze samego Morthena, nawet przez krótki moment nie pomyślał, iż może to być dla niego aż tak tragiczne w skutkach. Teraz pozostaje jedynie biernym obserwatorem niemającym kontroli nad swym ciałem, a puste oczodoły nie mogą uronić nawet jednej, symbolicznej łzy.;rarity=legendary;reqp=bht;sa=91;slow=32",
-      "tags": [],
-      "extendedID": "47823@83"
+      "tags": []
     },
     {
       "id": 47822,
@@ -7056,7 +7069,11 @@
       "cl": 12,
       "pr": 70754,
       "st": 0,
-      "stat": "acdmg=7;binds;crit=2;critval=6;dz=206;energybon=16;evade=18;hp=1081;legbon=puncture,91;lowevade=9;lvl=91;opis=Rozciągnij między nimi cięciwę, a posłużą jako miniaturowa kusza![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=h;sa=76"
+      "stat": "acdmg=7;binds;crit=2;critval=6;dz=206;energybon=16;evade=18;hp=1081;legbon=puncture,91;lowevade=9;lvl=91;opis=Rozciągnij między nimi cięciwę, a posłużą jako miniaturowa kusza![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=h;sa=76",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 59729,
@@ -7065,7 +7082,11 @@
       "cl": 12,
       "pr": 67385,
       "st": 0,
-      "stat": "acdmg=7;binds;crit=2;critmval=12;da=54;di=55;heal=468;legbon=puncture,91;lvl=91;manabon=73;opis=Pierścień ten jest podobizną pupila jednego z wybitniejszych czarnoksiężników posługujących się magią zimna. Stworzony został celem upamiętnienia poległego przyjaciela podróży...[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=mpt;sa=76"
+      "stat": "acdmg=7;binds;crit=2;critmval=12;da=54;di=55;heal=468;legbon=puncture,91;lvl=91;manabon=73;opis=Pierścień ten jest podobizną pupila jednego z wybitniejszych czarnoksiężników posługujących się magią zimna. Stworzony został celem upamiętnienia poległego przyjaciela podróży...[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=mpt;sa=76",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 59728,
@@ -7074,7 +7095,11 @@
       "cl": 12,
       "pr": 78007,
       "st": 0,
-      "stat": "acdmg=7;binds;crit=2;critval=6;ds=105;dz=55;energybon=32;evade=9;hp=1081;legbon=puncture,91;lowevade=9;lvl=91;opis=Odnaleziono ją w jednej z lodowych sal na północ od Thuzal. Niestety, nie udało się ustalić do kogo należała w latach swej świetności.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=bw;sa=76;slow=34"
+      "stat": "acdmg=7;binds;crit=2;critval=6;ds=105;dz=55;energybon=32;evade=9;hp=1081;legbon=puncture,91;lowevade=9;lvl=91;opis=Odnaleziono ją w jednej z lodowych sal na północ od Thuzal. Niestety, nie udało się ustalić do kogo należała w latach swej świetności.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=bw;sa=76;slow=34",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 56584,
@@ -7849,8 +7874,7 @@
       "tags": [
         "event",
         "event-wiel-20"
-      ],
-      "extendedID": "34463@100!heal"
+      ]
     },
     {
       "id": 34461,
@@ -7863,8 +7887,7 @@
       "tags": [
         "event",
         "event-wiel-20"
-      ],
-      "extendedID": "34461@100"
+      ]
     },
     {
       "id": 34454,
@@ -7901,8 +7924,7 @@
       "tags": [
         "event",
         "event-school"
-      ],
-      "extendedID": "26374@100"
+      ]
     },
     {
       "id": 26373,
@@ -9302,8 +9324,7 @@
         "event",
         "autolvl",
         "event-autumn"
-      ],
-      "extendedID": "39736@111"
+      ]
     },
     {
       "id": 27725,
@@ -10617,8 +10638,7 @@
         "event",
         "autolvl",
         "event-autumn"
-      ],
-      "extendedID": "39727@122"
+      ]
     },
     {
       "id": 54544,
@@ -10836,8 +10856,7 @@
         "event",
         "event-marzanna",
         "autolvl"
-      ],
-      "extendedID": "42146@127"
+      ]
     },
     {
       "id": 56588,
@@ -11874,7 +11893,11 @@
       "cl": 11,
       "pr": 166872,
       "st": 0,
-      "stat": "absorb=589;absorbm=294;ac=98;binds;crit=2;critmval=12;heal=300;legbon=critred,137;lvl=137;opis=Właściciel tych rękawic zyskuje pełne prawo do konsumpcji dań oznaczonych etykietą \"na święta\" oraz do zarządzania czasem i energią swoich domowników. Korzystaj mądrze![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=m;resdmg=1;reslight=16;sa=145;slow=47"
+      "stat": "absorb=589;absorbm=294;ac=98;binds;crit=2;critmval=12;heal=300;legbon=critred,137;lvl=137;opis=Właściciel tych rękawic zyskuje pełne prawo do konsumpcji dań oznaczonych etykietą \"na święta\" oraz do zarządzania czasem i energią swoich domowników. Korzystaj mądrze![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=m;resdmg=1;reslight=16;sa=145;slow=47",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 59745,
@@ -11883,7 +11906,11 @@
       "cl": 11,
       "pr": 183976,
       "st": 0,
-      "stat": "absorb=118;absorbm=59;ac=181;act=11;binds;dz=80;energybon=38;heal=154;legbon=facade,137;lowevade=14;lvl=137;manabon=74;opis=Cukrowe ozdoby przytwierdzone do rękawic wspomogą cię za każdym razem, gdy odczujesz nagły brak energii. Nawet podczas walki![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=pt;resdmg=1;reslight=7;sa=145"
+      "stat": "absorb=118;absorbm=59;ac=181;act=11;binds;dz=80;energybon=38;heal=154;legbon=facade,137;lowevade=14;lvl=137;manabon=74;opis=Cukrowe ozdoby przytwierdzone do rękawic wspomogą cię za każdym razem, gdy odczujesz nagły brak energii. Nawet podczas walki![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=pt;resdmg=1;reslight=7;sa=145",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 59744,
@@ -11892,7 +11919,11 @@
       "cl": 11,
       "pr": 158926,
       "st": 0,
-      "stat": "ac=212;acdmg=12;act=1;binds;crit=2;critval=6;energybon=38;heal=154;legbon=critred,137;lvl=137;opis=W cukrowym szale nie oszczędzisz nikogo ani niczego. A już szczególnie cukrowych lasek zwisających ze świątecznego drzewka.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=w;sa=145;slow=47"
+      "stat": "ac=212;acdmg=12;act=1;binds;crit=2;critval=6;energybon=38;heal=154;legbon=critred,137;lvl=137;opis=W cukrowym szale nie oszczędzisz nikogo ani niczego. A już szczególnie cukrowych lasek zwisających ze świątecznego drzewka.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=w;sa=145;slow=47",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 59743,
@@ -11901,7 +11932,11 @@
       "cl": 11,
       "pr": 166872,
       "st": 0,
-      "stat": "ac=167;acdmg=12;act=2;binds;energybon=38;evade=27;hp=559;legbon=facade,137;lvl=137;opis=Dotyk twych gorących dłoni rozpuszcza lodowe bariery, a unosząca się para ulega krystalizacji na purpurowych mankietach. Powstałe w ten sposób lodowe formacje cieszą oko zarówno twoje, jak i obcych ci ludzi.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=bh;resfire=6;reslight=6;sa=145;slow=86"
+      "stat": "ac=167;acdmg=12;act=2;binds;energybon=38;evade=27;hp=559;legbon=facade,137;lvl=137;opis=Dotyk twych gorących dłoni rozpuszcza lodowe bariery, a unosząca się para ulega krystalizacji na purpurowych mankietach. Powstałe w ten sposób lodowe formacje cieszą oko zarówno twoje, jak i obcych ci ludzi.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=bh;resfire=6;reslight=6;sa=145;slow=86",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 56589,
@@ -16045,7 +16080,11 @@
       "cl": 11,
       "pr": 328387,
       "st": 0,
-      "stat": "absorb=876;absorbm=438;ac=146;binds;crit=1;critmval=6;da=53;heal=405;legbon=puncture,179;lowcrit=2;lvl=179;opis=Wokół każdej bombki zawieszonej w tych rękawicach zdaje się pulsować delikatna, złota aura... Czyżby w łapkach tych żył sam duch świąt?[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=m;resdmg=1;resfire=6;reslight=10;sa=142;slow=110"
+      "stat": "absorb=876;absorbm=438;ac=146;binds;crit=1;critmval=6;da=53;heal=405;legbon=puncture,179;lowcrit=2;lvl=179;opis=Wokół każdej bombki zawieszonej w tych rękawicach zdaje się pulsować delikatna, złota aura... Czyżby w łapkach tych żył sam duch świąt?[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=m;resdmg=1;resfire=6;reslight=10;sa=142;slow=110",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 59762,
@@ -16054,7 +16093,11 @@
       "cl": 11,
       "pr": 344807,
       "st": 0,
-      "stat": "absorb=175;absorbm=88;ac=269;act=6;binds;crit=2;da=53;di=103;energybon=22;heal=207;legbon=puncture,179;lvl=179;manabon=50;opis=Sklejająca dłonie żywica oraz wchodzące pod płytkę paznokcia igliwie skutecznie przekonują cię do możliwie szybkiego wykonywania zadań w tych podstępnych rękawicach.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=pt;resdmg=1;resfire=3;reslight=7;sa=187"
+      "stat": "absorb=175;absorbm=88;ac=269;act=6;binds;crit=2;da=53;di=103;energybon=22;heal=207;legbon=puncture,179;lvl=179;manabon=50;opis=Sklejająca dłonie żywica oraz wchodzące pod płytkę paznokcia igliwie skutecznie przekonują cię do możliwie szybkiego wykonywania zadań w tych podstępnych rękawicach.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=pt;resdmg=1;resfire=3;reslight=7;sa=187",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 59761,
@@ -16063,7 +16106,11 @@
       "cl": 11,
       "pr": 257300,
       "st": 0,
-      "stat": "ac=315;acdmg=18;act=1;binds;crit=2;critval=12;ds=103;energybon=44;legbon=facade,179;lvl=179;opis=Stalowe szpony wprawiają lód w drżenie, a wymierzone w lodową bryłę ciosy zmieniają ją w sorbet... Uważaj, by przypadkiem nie uszkodzić w nich samego siebie![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=w;sa=187"
+      "stat": "ac=315;acdmg=18;act=1;binds;crit=2;critval=12;ds=103;energybon=44;legbon=facade,179;lvl=179;opis=Stalowe szpony wprawiają lód w drżenie, a wymierzone w lodową bryłę ciosy zmieniają ją w sorbet... Uważaj, by przypadkiem nie uszkodzić w nich samego siebie![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=w;sa=187",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 59760,
@@ -16072,7 +16119,11 @@
       "cl": 11,
       "pr": 270165,
       "st": 0,
-      "stat": "ac=248;acdmg=18;act=12;binds;energybon=22;evade=36;hp=2190;legbon=puncture,179;lvl=179;opis=Dotyk tych rękawic rozpalał zmysły, by chwilę później schładzać nieruchome już ciała... Choć każdy wiedział, jaki los może go spotkać, pani mrozu nigdy nie narzekała na brak adoratorów.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=bh;reslight=6;sa=187;slow=59"
+      "stat": "ac=248;acdmg=18;act=12;binds;energybon=22;evade=36;hp=2190;legbon=puncture,179;lvl=179;opis=Dotyk tych rękawic rozpalał zmysły, by chwilę później schładzać nieruchome już ciała... Choć każdy wiedział, jaki los może go spotkać, pani mrozu nigdy nie narzekała na brak adoratorów.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=bh;reslight=6;sa=187;slow=59",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 57023,
@@ -16647,8 +16698,7 @@
         "autolvl",
         "event-xmas-24",
         "event"
-      ],
-      "extendedID": "55332@182"
+      ]
     },
     {
       "id": 51801,
@@ -16662,8 +16712,7 @@
         "abyss",
         "autolvl",
         "event"
-      ],
-      "extendedID": "51801@182"
+      ]
     },
     {
       "id": 51800,
@@ -16677,8 +16726,7 @@
         "abyss",
         "autolvl",
         "event"
-      ],
-      "extendedID": "51800@182"
+      ]
     },
     {
       "id": 56807,
@@ -16970,8 +17018,10 @@
       "tags": [
         "autolvl",
         "event-xmas-25",
-        "latest"
-      ]
+        "event",
+        "latest-2"
+      ],
+      "extendedID": "59816@187"
     },
     {
       "id": 57052,
@@ -17681,8 +17731,7 @@
       "cl": 11,
       "pr": 332853,
       "st": 0,
-      "stat": "ac=281;act=12;binds;crit=2;critval=6;energybon=23;evade=39;hp=816;legbon=facade,194;lvl=194;opis=Konstrukt, jakim jest Przeraza, powstał ze szczątków magów, których to - w przypływie gniewu i rozpaczy - zabił Cerasus. Kontrolowany przez pnącza, magię oraz wolę drzewca, jest on najsilniejszą z marionetek Mrocznego Lasu. Będąc przy tym powiernikiem woli pomniejszego boga - Cerasusa - działa zgodnie z jego ideami, zachowując pełną swobodę w przemieszczaniu się po kniei.;rarity=legendary;reqp=bh;resfire=6;sa=202;slow=63",
-      "extendedID": "57403@194"
+      "stat": "ac=281;act=12;binds;crit=2;critval=6;energybon=23;evade=39;hp=816;legbon=facade,194;lvl=194;opis=Konstrukt, jakim jest Przeraza, powstał ze szczątków magów, których to - w przypływie gniewu i rozpaczy - zabił Cerasus. Kontrolowany przez pnącza, magię oraz wolę drzewca, jest on najsilniejszą z marionetek Mrocznego Lasu. Będąc przy tym powiernikiem woli pomniejszego boga - Cerasusa - działa zgodnie z jego ideami, zachowując pełną swobodę w przemieszczaniu się po kniei.;rarity=legendary;reqp=bh;resfire=6;sa=202;slow=63"
     },
     {
       "id": 41075,
@@ -18203,8 +18252,7 @@
       "tags": [
         "event-wiel-23",
         "event"
-      ],
-      "extendedID": "46618@200"
+      ]
     },
     {
       "id": 46617,
@@ -18853,9 +18901,7 @@
       "pr": 215059,
       "st": 0,
       "stat": "lvl=204;opis=Szorstkie, przypalone futro zostało żywcem zerwane z nieposłusznego pomiotu piekielnego, który próbował wydostać się spod kontroli Przyzywacza Demonów. Czeka od dawna na kogoś, który wykorzysta magię w nim drzemiącą...[br][br]Kowal Wasar z Mirvenis-Adur potrafi dopasować pancerz tej klasy do twoich potrzeb.;permbound;rarity=legendary;reqp=mt",
-      "tags": [
-        "removed"
-      ]
+      "tags": []
     },
     {
       "id": 41661,
@@ -18865,9 +18911,7 @@
       "pr": 215059,
       "st": 0,
       "stat": "lvl=204;opis=Misternie wykonana zbroja uległa rozerwaniu, gdy ciało Thinkusa przepełniła moc Demonisa Pana Nicości. Uszkodzeniu uległa nie tylko zbroja, ale i świadomość nithalskiego kupca, który od tamtej pory stał się wypaczoną skorupą służącą tylko i aż przyzywaniu nowych demonów...[br][br]Kowal Wasar z Mirvenis-Adur potrafi dopasować pancerz tej klasy do twoich potrzeb.;permbound;rarity=legendary;reqp=bh",
-      "tags": [
-        "removed"
-      ]
+      "tags": []
     },
     {
       "id": 41660,
@@ -18877,9 +18921,7 @@
       "pr": 215059,
       "st": 0,
       "stat": "lvl=204;opis=Kurta odnaleziona została w pustynnym grobowcu podczas poszukiwań mrocznych artefaktów w krainie, a następnie przywłaszczona przez Thinkusa na jego własny użytek. Aktualnie zaś, zbrukana krwią niewinnych, którzy zginęli dzięki zachciance nieśmiertelności starego kupca...[br][br]Kowal Wasar z Mirvenis-Adur potrafi dopasować pancerz tej klasy do twoich potrzeb.;permbound;rarity=legendary;reqp=pw",
-      "tags": [
-        "removed"
-      ]
+      "tags": []
     },
     {
       "id": 39660,
@@ -21074,6 +21116,33 @@
       ]
     },
     {
+      "id": 58755,
+      "name": "Źródło grzybowej zarazy",
+      "icon": "nas/naszyjnik1366.gif",
+      "cl": 13,
+      "pr": 487327,
+      "st": 0,
+      "stat": "binds;crit=2;critmval=12;di=526;dz=135;evade=47;heal=539;hp=1805;legbon=critred,235;lowevade=24;lvl=235;opis=Z ciała Fangaja udało ci się odizolować owocnik pierwotnego grzyba, od którego rozpoczęła się zaraza. Czy na jego bazie uda się zidentyfikować eliksiry ze zniszczonej Wieży Magów, które mogły wpłynąć na rozwój mutacji? Czy istnieje cień szansy na wytworzenie antidotum i odwrócenie zaistniałych procesów? Przekonajmy się!;rarity=legendary;reqp=mt;sa=184;slow=75"
+    },
+    {
+      "id": 58754,
+      "name": "Sznur psylocybków",
+      "icon": "nas/naszyjnik1368.gif",
+      "cl": 13,
+      "pr": 487327,
+      "st": 0,
+      "stat": "binds;crit=2;critval=12;ds=135;dz=265;energybon=26;evade=24;hp=3586;legbon=glare,235;lowcrit=4;lowevade=24;lvl=235;opis=Przegryź grzybka, chwyć za miecze,[br]niech zapłacą za swe winy![br]Skąd te ruchy? Skąd ta gracja?[br]Efekt to psylocybiny!;rarity=legendary;reqp=bh;sa=243"
+    },
+    {
+      "id": 58753,
+      "name": "Najbardziej wyjątkowy okaz",
+      "icon": "nas/naszyjnik1367.gif",
+      "cl": 13,
+      "pr": 464121,
+      "st": 0,
+      "stat": "binds;blok=35;crit=2;critval=12;da=184;ds=396;energybon=26;heal=539;hp=3586;legbon=critred,235;lvl=235;opis=Niezwykle okazały owocnik zmutowanego grzyba zawiera w sobie niezliczoną ilość zarodników. Nosząc go na szyi na pewno dołożysz się do dalszego rozprzestrzeniania zarazy. Zależy ci więc bardziej na własnych korzyściach, czy na dobrostanie środowiska?;rarity=legendary;reqp=pw;sa=184"
+    },
+    {
       "id": 36770,
       "name": "Czarna Wdowa",
       "icon": "pie/pierscien529.gif",
@@ -21119,7 +21188,10 @@
       "cl": 13,
       "pr": 487327,
       "st": 0,
-      "stat": "binds;crit=2;critval=12;ds=135;dz=265;energybon=26;evade=24;hp=3586;legbon=facade,235;lowcrit=4;lowevade=24;lvl=235;opis=Wszystkie z korali rozświetlą się niebiańskim światłem, gdy zejdzie na człowiecze padoły ukarać pyszałków. Chłód i choroba rozprzestrzenią się po krainie, a ludzkie plemię będzie chrząkać, zgrzytać zębami, umierać... Twarz borowego pozostanie jednak niewzruszona.;rarity=legendary;reqp=bh;sa=243"
+      "stat": "binds;crit=2;critval=12;ds=135;dz=265;energybon=26;evade=24;hp=3586;legbon=facade,235;lowcrit=4;lowevade=24;lvl=235;opis=Wszystkie z korali rozświetlą się niebiańskim światłem, gdy zejdzie na człowiecze padoły ukarać pyszałków. Chłód i choroba rozprzestrzenią się po krainie, a ludzkie plemię będzie chrząkać, zgrzytać zębami, umierać... Twarz borowego pozostanie jednak niewzruszona.;rarity=legendary;reqp=bh;sa=243",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 23735,
@@ -21128,7 +21200,10 @@
       "cl": 13,
       "pr": 464121,
       "st": 0,
-      "stat": "binds;crit=2;critval=12;da=126;ds=135;energybon=51;heal=539;hp=7147;legbon=critred,235;lowevade=24;lvl=235;opis=Cichy brzdęk postukujących o siebie złotych koralików przynosi wspomnienie walki z czworonożną, porośniętą mchem istotą. Po opustoszałych, bezdennych salach zapewne nadal odbija się echo ostatniego ryku wydanego przez rozpłataną na pół bestię.;rarity=legendary;reqp=pw;sa=184"
+      "stat": "binds;crit=2;critval=12;da=126;ds=135;energybon=51;heal=539;hp=7147;legbon=critred,235;lowevade=24;lvl=235;opis=Cichy brzdęk postukujących o siebie złotych koralików przynosi wspomnienie walki z czworonożną, porośniętą mchem istotą. Po opustoszałych, bezdennych salach zapewne nadal odbija się echo ostatniego ryku wydanego przez rozpłataną na pół bestię.;rarity=legendary;reqp=pw;sa=184",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 23734,
@@ -21137,7 +21212,10 @@
       "cl": 13,
       "pr": 537278,
       "st": 0,
-      "stat": "binds;crit=2;critmval=12;di=265;dz=135;evade=24;heal=539;hp=1805;legbon=curse,235;lowcrit=4;lvl=235;manabon=64;opis=Pacior w pacior - każdy jeden opleciony leśną wicią i spleciony z resztą nierozerwalnym spoiwem. Misterna dłubanina wykończona drobnymi, prawie że niewidzialnymi koralikami rozpraszającymi światło, wyglądającymi zupełnie jak zastygnięte krople jesiennej rosy tuż przed nastaniem świtu.;rarity=legendary;reqp=mt;resdmg=1;sa=184;slow=75"
+      "stat": "binds;crit=2;critmval=12;di=265;dz=135;evade=24;heal=539;hp=1805;legbon=curse,235;lowcrit=4;lvl=235;manabon=64;opis=Pacior w pacior - każdy jeden opleciony leśną wicią i spleciony z resztą nierozerwalnym spoiwem. Misterna dłubanina wykończona drobnymi, prawie że niewidzialnymi koralikami rozpraszającymi światło, wyglądającymi zupełnie jak zastygnięte krople jesiennej rosy tuż przed nastaniem świtu.;rarity=legendary;reqp=mt;resdmg=1;sa=184;slow=75",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 15421,
@@ -21211,7 +21289,37 @@
       "cl": 13,
       "pr": 503969,
       "st": 0,
-      "stat": "acdmg=27;binds;crit=2;critmval=6;critval=6;da=128;energybon=26;evade=24;heal=552;hp=3670;legbon=cleanse,239;lowevade=24;lvl=239;manabon=65;opis=Należał do tego, kim był ów jeździec boru we swej wcześniejszej formie. Aktualnie Dęborożec jest bowiem tylko pustą skorupą, kierowaną sugestią wpojoną mu przed laty...;rarity=legendary;resdmg=1;sa=187"
+      "stat": "acdmg=27;binds;crit=2;critmval=6;critval=6;da=128;energybon=26;evade=24;heal=552;hp=3670;legbon=cleanse,239;lowevade=24;lvl=239;manabon=65;opis=Należał do tego, kim był ów jeździec boru we swej wcześniejszej formie. Aktualnie Dęborożec jest bowiem tylko pustą skorupą, kierowaną sugestią wpojoną mu przed laty...;rarity=legendary;resdmg=1;sa=187",
+      "tags": [
+        "removed"
+      ]
+    },
+    {
+      "id": 58782,
+      "name": "Oculus",
+      "icon": "nas/naszyjnik1342.gif",
+      "cl": 13,
+      "pr": 508173,
+      "st": 0,
+      "stat": "acdmg=28;binds;crit=5;da=128;evade=24;heal=1102;hp=1858;legbon=lastheal,240;lowevade=48;lvl=240;opis=Gdy spoglądasz na ruchome oko przedziwnego amuletu, oko to spogląda również na ciebie. Czy nawiążecie ze sobą długofalową współpracę? A może pozbędziesz się Oculusa przy najbliższej możliwej okazji? Decyzja należy do ciebie!;rarity=legendary;resdmg=1;resfire=-3;resfrost=3;sa=188"
+    },
+    {
+      "id": 58758,
+      "name": "Żywiczne korzonki",
+      "icon": "but/buty1383.gif",
+      "cl": 10,
+      "pr": 533582,
+      "st": 0,
+      "stat": "absorb=932;absorbm=466;ac=416;act=4;binds;crit=2;critmval=12;heal=904;legbon=facade,240;lvl=240;manabon=125;opis=Kora potężnego Dendroculusa zalewana była kolejnymi warstwami żywicy w celu ukojenia ran wyniesionych z setek walk. Zaschnięta, lepka wydzielina stanowi skuteczną obronę przed obrażeniami wrogów lasu.;rarity=legendary;reqp=mpt;resfire=-3;resfrost=17;sa=188"
+    },
+    {
+      "id": 58757,
+      "name": "Konarowce",
+      "icon": "but/buty1382.gif",
+      "cl": 10,
+      "pr": 533582,
+      "st": 0,
+      "stat": "ac=516;act=8;binds;crit=2;ds=137;dz=137;energybon=26;evade=72;legbon=facade,240;lowevade=24;lvl=240;opis=Wytworzone z części drzewca zalegających w moczarach. Zawdzięczają swe właściwości zarówno Dendroculusowi, z którego został pozyskany na nie materiał, jak i mutagenom zawartym w wodzie zakorzenionych źródeł.;rarity=legendary;reqp=bhw;resfire=-3;resfrost=8;sa=188"
     },
     {
       "id": 53358,
@@ -21480,7 +21588,10 @@
       "cl": 15,
       "pr": 2000000,
       "st": 0,
-      "stat": "lvl=240;rarity=legendary"
+      "stat": "lvl=240;rarity=legendary",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 32444,
@@ -21498,7 +21609,10 @@
       "cl": 10,
       "pr": 508173,
       "st": 0,
-      "stat": "ac=444;act=12;binds;crit=2;critval=6;da=68;dz=137;energybon=52;evade=48;legbon=facade,240;lvl=240;opis=Wytworzone z części drzewca zalegających w moczarach. Zawdzięczają swe właściwości zarówno Dendroculusowi, z którego został pozyskany na nie materiał, jak i mutagenom zawartym w wodzie zakorzenionych źródeł.;rarity=legendary;reqp=bht;reslight=8;sa=188"
+      "stat": "ac=444;act=12;binds;crit=2;critval=6;da=68;dz=137;energybon=52;evade=48;legbon=facade,240;lvl=240;opis=Wytworzone z części drzewca zalegających w moczarach. Zawdzięczają swe właściwości zarówno Dendroculusowi, z którego został pozyskany na nie materiał, jak i mutagenom zawartym w wodzie zakorzenionych źródeł.;rarity=legendary;reqp=bht;reslight=8;sa=188",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 29491,
@@ -21546,7 +21660,10 @@
       "cl": 10,
       "pr": 508173,
       "st": 0,
-      "stat": "ac=516;act=8;binds;crit=3;critval=6;ds=137;energybon=26;hp=3227;legbon=facade,240;lvl=240;opis=Odporny na ogień budulec emanuje olbrzymią energią. Marzeniem każdego łowcy nagród jest uszczknięcie choć odrobiny tej niezwykłej kory, która w swojej specyfice przerasta możliwości najwybitniejszych alchemików.;rarity=legendary;reqp=bhw;resfire=5;sa=188"
+      "stat": "ac=516;act=8;binds;crit=3;critval=6;ds=137;energybon=26;hp=3227;legbon=facade,240;lvl=240;opis=Odporny na ogień budulec emanuje olbrzymią energią. Marzeniem każdego łowcy nagród jest uszczknięcie choć odrobiny tej niezwykłej kory, która w swojej specyfice przerasta możliwości najwybitniejszych alchemików.;rarity=legendary;reqp=bhw;resfire=5;sa=188",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 23760,
@@ -21555,7 +21672,10 @@
       "cl": 10,
       "pr": 560261,
       "st": 0,
-      "stat": "absorb=932;absorbm=466;ac=416;act=4;binds;crit=2;critmval=6;di=137;heal=605;hp=2159;legbon=critred,240;lvl=240;manabon=65;opis=Kora potężnego Dendroculusa zalewana była kolejnymi warstwami żywicy w celu ukojenia ran wyniesionych z setek walk. Zaschnięta, lepka wydzielina stanowi skuteczną obronę przed obrażeniami wrogów lasu.;rarity=legendary;reqp=mpt;resfire=14;sa=188"
+      "stat": "absorb=932;absorbm=466;ac=416;act=4;binds;crit=2;critmval=6;di=137;heal=605;hp=2159;legbon=critred,240;lvl=240;manabon=65;opis=Kora potężnego Dendroculusa zalewana była kolejnymi warstwami żywicy w celu ukojenia ran wyniesionych z setek walk. Zaschnięta, lepka wydzielina stanowi skuteczną obronę przed obrażeniami wrogów lasu.;rarity=legendary;reqp=mpt;resfire=14;sa=188",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 21461,
@@ -21662,6 +21782,60 @@
       ]
     },
     {
+      "id": 58778,
+      "name": "Rękawice ze skóry Tolypeutesa",
+      "icon": "rek/rekawice1404.gif",
+      "cl": 11,
+      "pr": 569589,
+      "st": 0,
+      "stat": "absorb=1172;absorbm=586;ac=281;act=6;binds;crit=2;critmval=12;evade=48;heal=292;legbon=glare,242;lvl=242;manabon=66;opis=Pod twardym jak skała pancerzem Tolypeutesa skryły się równie wytrzymałe, acz znacznie elastyczniejsze, połacie skóry. Nie trzeba było długo czekać, aż tak cenny materiał zostanie wykorzystany na potrzeby pojedynków, czy do dzierżenia przeklętych kosturów.;rarity=legendary;reqp=mt;reslight=15;sa=190;slow=77"
+    },
+    {
+      "id": 58777,
+      "name": "Mankiety obrońcy bogów",
+      "icon": "rek/rekawice1402.gif",
+      "cl": 11,
+      "pr": 492032,
+      "st": 0,
+      "stat": "ac=398;act=12;binds;crit=2;critval=12;energybon=26;evade=48;heal=292;legbon=cleanse,242;lvl=242;opis=Według przekazywanych ustnie pośród Mahopteków podań, rękawice te należały do człowieka, który posiadł moc tak wielką, że zyskał tym uznanie w oczach bogów. Mianowany przez Quetzalcoatla na swego przybocznego, ludzkiego strażnika, zginął w niedługim czasie z ręki zawistnego Tezcatlipocy.;rarity=legendary;reqp=bh;reslight=6;sa=250"
+    },
+    {
+      "id": 58776,
+      "name": "Gest Teomama",
+      "icon": "rek/rekawice1403.gif",
+      "cl": 11,
+      "pr": 492032,
+      "st": 0,
+      "stat": "ac=487;act=1;binds;blok=36;crit=3;critval=12;heal=292;legbon=curse,242;lvl=242;opis=W blasku wschodzącego słońca ukazał się nam na horyzoncie ląd ten upragniony, który za siedzibę uznali bogowie. Oto zaistniało przed nami wielkie dziedzictwo, proroctwo i nasza przyszłość. Niechaj czczeni bogowie mają nas wiecznie w swej opiece! No-kal, Teotl-kal!;rarity=legendary;reqp=pw;reslight=6;sa=190;slow=146"
+    },
+    {
+      "id": 58761,
+      "name": "Maska Puryfikacji",
+      "icon": "hel/helm1489.gif",
+      "cl": 9,
+      "pr": 542466,
+      "st": 0,
+      "stat": "absorb=1856;absorbm=928;ac=309;binds;crit=2;critmval=12;di=138;heal=320;legbon=verycrit,242;lvl=242;manabon=126;opis=Maska ta należała do tego, kim był ów jeździec boru we swej wcześniejszej postaci i towarzyszyła każdej Puryfikacji przeprowadzanej na opierających się przekabaceniu ziemiach. Aktualnie bowiem Dęborożec jest tylko pustą skorupą, kierowaną sugestią wpojoną mu przed laty...;rarity=legendary;reqp=m;resfrost=6;reslight=10;sa=250"
+    },
+    {
+      "id": 58760,
+      "name": "Czaszka wielkiego nieszczęśnika",
+      "icon": "hel/helm1487.gif",
+      "cl": 9,
+      "pr": 492032,
+      "st": 0,
+      "stat": "ac=495;act=12;binds;crit=2;critval=6;dz=273;energybon=26;evade=48;legbon=curse,242;lvl=242;opis=Bestia powstała z odłamanej części korpusu Reuzena i ciała maga uśmierconego z powodu utraty antycznych manuskryptów. Od tej pory tworzą jedną istotę - strażnika kniei mającego za zadanie pilnować chaosu utworzonego przez Organizację na podmytharskich ziemiach...;rarity=legendary;reqp=bht;resfire=8;sa=250"
+    },
+    {
+      "id": 58759,
+      "name": "Gniew strażnika kniei",
+      "icon": "hel/helm1488.gif",
+      "cl": 9,
+      "pr": 492032,
+      "st": 0,
+      "stat": "ac=643;act=1;binds;crit=2;critval=12;ds=273;energybon=26;legbon=lastheal,242;lowevade=24;lvl=242;opis=Biada każdemu, kto śmie wtargnąć do leśnego sanktuarium! Pień w pień, korzeń w korzeń - wspólnie obronimy to, co stanowi nasze dziedzictwo! Wrogowie polegną i pójdą w zapomnienie, a ich truchła już na zawsze staną się częścią zmutowanego lasu...;rarity=legendary;reqp=pw;resfrost=6;sa=250"
+    },
+    {
       "id": 55331,
       "name": "Bulbulator",
       "icon": "pie/pierscien1170.gif",
@@ -21725,7 +21899,10 @@
       "cl": 9,
       "pr": 598068,
       "st": 0,
-      "stat": "absorb=1039;absorbm=520;ac=464;act=4;binds;crit=2;critmval=6;di=138;heal=320;legbon=verycrit,242;lowevade=24;lvl=242;manabon=126;opis=Strzeżcie się, przybłędy bezczeszczące święte knieje, by nie dosięgnął was gniew ich zwierzchnika. Nim się obejrzycie, wasze serca zostaną rozerwane na strzępy przez żywe korzenie, a szkielety staną się ozdobą kolejnych dzieci naszych borów.;rarity=legendary;reqp=mpt;reslight=14;sa=190;slow=77"
+      "stat": "absorb=1039;absorbm=520;ac=464;act=4;binds;crit=2;critmval=6;di=138;heal=320;legbon=verycrit,242;lowevade=24;lvl=242;manabon=126;opis=Strzeżcie się, przybłędy bezczeszczące święte knieje, by nie dosięgnął was gniew ich zwierzchnika. Nim się obejrzycie, wasze serca zostaną rozerwane na strzępy przez żywe korzenie, a szkielety staną się ozdobą kolejnych dzieci naszych borów.;rarity=legendary;reqp=mpt;reslight=14;sa=190;slow=77",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 23749,
@@ -21734,7 +21911,109 @@
       "cl": 9,
       "pr": 542466,
       "st": 0,
-      "stat": "ac=575;act=8;binds;crit=2;critval=12;ds=138;energybon=26;hp=1136;legbon=curse,242;lowevade=24;lvl=242;opis=Biada każdemu, kto śmie wtargnąć do naszego leśnego sanktuarium. Pień w pień, korzeń w korzeń - wspólnie obronimy to, co jest naszym dziedzictwem od zarania dziejów. Polegniecie i pójdziecie w zapomnienie, a wasze truchła staną się częścią lasu.;rarity=legendary;reqp=bhw;reslight=5;sa=250"
+      "stat": "ac=575;act=8;binds;crit=2;critval=12;ds=138;energybon=26;hp=1136;legbon=curse,242;lowevade=24;lvl=242;opis=Biada każdemu, kto śmie wtargnąć do naszego leśnego sanktuarium. Pień w pień, korzeń w korzeń - wspólnie obronimy to, co jest naszym dziedzictwem od zarania dziejów. Polegniecie i pójdziecie w zapomnienie, a wasze truchła staną się częścią lasu.;rarity=legendary;reqp=bhw;reslight=5;sa=250",
+      "tags": [
+        "removed"
+      ]
+    },
+    {
+      "id": 60319,
+      "name": "Najtwardszy czerep",
+      "icon": "neu/itm_debo_l3.gif",
+      "cl": 15,
+      "pr": 244,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=244;opis=Jeden z 18 składników legendarnego stroju Dęborożca. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 60318,
+      "name": "Poroże strażnika kniei",
+      "icon": "neu/itm_debo_l2.gif",
+      "cl": 15,
+      "pr": 244,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=244;opis=Jeden z 18 składników legendarnego stroju Dęborożca. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 60317,
+      "name": "Uzbrojony żołądź",
+      "icon": "neu/itm_debo_l1.gif",
+      "cl": 15,
+      "pr": 244,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=244;opis=Jeden z 18 składników legendarnego stroju Dęborożca. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 58769,
+      "name": "Kamienie Wieków",
+      "icon": "nas/naszyjnik1345.gif",
+      "cl": 13,
+      "pr": 500157,
+      "st": 0,
+      "stat": "crit=3;critmval=18;di=140;heal=1128;hp=5652;legbon=anguish,244;lowevade=24;lvl=244;manabon=66;opis=Żądni potęgi magowie, skuszeni wizją zgłębienia tajemnych symboli pokrywających ściany piramid, w ich poszukiwaniu wtargnęli na tereny dzikiego ludu. Nie dowiedziawszy się niczego, postanowili opuścić zbezczeszczone świątynie i powrócić do swej działalności. Przed odejściem jeden z nich dostrzegł jednak stojącą w przybocznej salce bogato zdobioną skrzynię, wypełnioną pradawnymi zwojami i amuletami - czarnoksiężnicy zabrali ją ze sobą. To zaś jeden z przedmiotów z jej wnętrza.;permbound;rarity=legendary;reqp=mpt;sa=191;slow=78"
+    },
+    {
+      "id": 58768,
+      "name": "Księżycowy Pasożyt",
+      "icon": "nas/naszyjnik1344.gif",
+      "cl": 13,
+      "pr": 476340,
+      "st": 0,
+      "stat": "crit=3;critval=18;ds=140;dz=140;evade=24;hp=7528;legbon=curse,244;lowevade=24;lvl=244;opis=Gdy wieść o kolejnych aktach nieposłuszeństwa Organizacji i utracie antycznych manuskryptów dotarła do Rady Magicznej, wysłali oni jednego ze swej ósemki, Revga, w miejsce stacjonowania grupy. Nie przejmując się konsekwencjami, wysłannik chwycił za gardło młodego maga odpowiadającego za bezpieczeństwo rękopisów, a skradziony mahoptecki naszyjnik stał się pętlą, na której w blasku księżyca zawisło jego ciało. Był to pierwszy, niezwykle dosadny krok ku przyszłej anihilacji całej grupy przez jej zwierzchników...;permbound;rarity=legendary;reqp=bhw;sa=252"
+    },
+    {
+      "id": 58767,
+      "name": "Drewniany odłamek",
+      "icon": "pie/pierscien1356.gif",
+      "cl": 12,
+      "pr": 453657,
+      "st": 0,
+      "stat": "acdmg=28;crit=5;energybon=53;evade=49;hp=1900;legbon=anguish,244;lowevade=24;lvl=244;opis=Choć starożytne manuskrypty określały dokładnie sposób użycia gnomiej krwi, to cała reszta informacji zapisana była niezrozumiałym nawet dla magów językiem. Prawdopodobnie dlatego większość z eksperymentalnych obiektów kończyła obracając się w drewniane, żywiczne odłamki, zamiast transformować w sękate sługi.;permbound;rarity=legendary;reqp=h;sa=313"
+    },
+    {
+      "id": 58766,
+      "name": "Owoc przypadkowego spotkania",
+      "icon": "pie/pierscien1355.gif",
+      "cl": 12,
+      "pr": 500157,
+      "st": 0,
+      "stat": "acdmg=28;crit=5;da=69;di=140;dz=140;energybon=53;heal=1128;legbon=lastheal,244;lvl=244;opis=Spotkanie w pustynnych katakumbach Cesarzowej z plemienia Centauri oraz Łowczyni Wspomnień nie mogło przynieść bardziej owocnych rezultatów. W zamian za pomoc w wydobyciu z antycznych mumii wspomnień o dalekiej przeszłości, dawniej rudowłosa półolbrzymka zobowiązała podzielić się z wysłannicą magów przedmiotami, jakie odnalazła, penetrując przez ostatnie dziesięć lat pustynne tereny. Wśród nich było dokładnie to, czego szukała... Pradawne manuskrypty zawierające treści, które powinny zniknąć wraz z tamtą cywilizacją.;permbound;rarity=legendary;reqp=t;sa=191;slow=78"
+    },
+    {
+      "id": 58765,
+      "name": "Łzawa rosa nierozwagi",
+      "icon": "pie/pierscien1354.gif",
+      "cl": 12,
+      "pr": 432054,
+      "st": 0,
+      "stat": "crit=5;heal=568;hp=9404;legbon=lastheal,244;lvl=244;opis=Będąc całkowicie pochłoniętym tworzeniem z wierzbowego pnia swego nowego tworu - przyszłego Silvanasusa - młody mag nie wyczuł obecności kogoś spoza grona wtajemniczonych w zabawę z gnomią krwią. Gdy usłyszawszy dźwięk łamanej gałęzi odwrócił się, w jaskini nie było już nikogo, a torba z manuskryptami, której miał strzec jak oka w głowie, została całkowicie opróżniona.;permbound;rarity=legendary;reqp=m;resdmg=1;sa=191;slow=147"
+    },
+    {
+      "id": 58764,
+      "name": "Bliźniacza brosza",
+      "icon": "pie/pierscien1353.gif",
+      "cl": 12,
+      "pr": 500157,
+      "st": 0,
+      "stat": "crit=5;da=69;di=275;energybon=26;heal=1128;legbon=puncture,244;lowevade=24;lvl=244;opis=Fiolka gnomiej krwi wylana na pień wiekowego drzewa, wzmocniona przy tym antycznym zaklęciem, wyzwoliła z niego dwie pokraczne, bliźniacze istoty - Dendroculusa i Cerasusa. Żaden z magów nie miał wtedy jeszcze świadomości, że stwory te nie zostały powołane przez nich do życia, a były pomniejszymi bogami uwolnionymi spod klątwy Tellarów.;permbound;rarity=legendary;reqp=p;resdmg=1;sa=191;slow=78"
+    },
+    {
+      "id": 58763,
+      "name": "Cierń ostatniej transmutacji",
+      "icon": "pie/pierscien1351.gif",
+      "cl": 12,
+      "pr": 453657,
+      "st": 0,
+      "stat": "acdmg=28;crit=5;ds=275;dz=275;evade=49;hp=1900;legbon=anguish,244;lvl=244;opis=Transmutacja dokonana przez Revga była ostatnią na tych terenach, nim ostatecznie rozgonił bawiącą się gnomią krwią hołotę. Odłamawszy kawałek korpusu Reuzena, złączył go z ciałem zabitego przez siebie maga Organizacji, tworząc strażnika owych ziem, nazwanego później przez okolicznych mieszkańców Dęborożcem.;permbound;rarity=legendary;reqp=b;sa=252"
+    },
+    {
+      "id": 58762,
+      "name": "Kwiecie przeogromnej pychy",
+      "icon": "pie/pierscien1352.gif",
+      "cl": 12,
+      "pr": 500157,
+      "st": 0,
+      "stat": "acdmg=28;crit=5;da=69;ds=275;dz=140;energybon=26;legbon=anguish,244;lowevade=49;lvl=244;opis=Dostarczone przez Cesarzową niezwykle cenne rękopisy, powierzone zostały w ręce członków Organizacji, którzy na ich podstawie stworzyć mieli kolejną wojenną bestię. Wyrżnąwszy prawie że w pień populację gnomów, celem uzyskania ich krwi, rozpoczęli odprawianie rytuałów i formowanie głównego cielska kolosa. I może wszystko skończyłoby się dobrze, gdyby nie ich nadmierna pycha, w wyniku której powstała nie jedna, a aż cztery potężne bestie, co nie spodobało się wspaniałej ósemce z Rady Magicznej.;permbound;rarity=legendary;reqp=w;sa=191;slow=78"
     },
     {
       "id": 20573,
@@ -21824,7 +22103,10 @@
       "cl": 9,
       "pr": 435585,
       "st": 0,
-      "stat": "ac=568;binds;crit=2;da=131;evade=25;hp=3409;legbon=lastheal,245;lowevade=25;lvl=245;opis=Bogato zdobiony złotem i kolorowymi piórami Ilautu, stanowił wyznacznik potęgi plemienia Mahopteków. Przekazywany władcom przez kapłanów boga Quetzacoatla, miał zaszczyt spocząć wieki temu na głowie Montezumy, najwybitniejszego wodza Mahopteków.;rarity=legendary;sa=192"
+      "stat": "ac=568;binds;crit=2;da=131;evade=25;hp=3409;legbon=lastheal,245;lowevade=25;lvl=245;opis=Bogato zdobiony złotem i kolorowymi piórami Ilautu, stanowił wyznacznik potęgi plemienia Mahopteków. Przekazywany władcom przez kapłanów boga Quetzacoatla, miał zaszczyt spocząć wieki temu na głowie Montezumy, najwybitniejszego wodza Mahopteków.;rarity=legendary;sa=192",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 31236,
@@ -21833,7 +22115,10 @@
       "cl": 12,
       "pr": 484141,
       "st": 0,
-      "stat": "binds;crit=4;critval=12;ds=277;energybon=53;hp=3819;legbon=lastheal,246;lowevade=25;lvl=246;opis=Wędrówka przez dziewięć kręgów Mictlan doprowadzała dusze zmarłych na skraj szaleństwa i niebytu... Pierzasty Wąż, w odpowiedzi na ludzką rozpacz, odważył się na odbycie tej samej podróży, by z własnej krwi i prochów poległych na nowo przywołać człowieka do życia...;rarity=legendary;reqp=pw;sa=193;slow=78"
+      "stat": "binds;crit=4;critval=12;ds=277;energybon=53;hp=3819;legbon=lastheal,246;lowevade=25;lvl=246;opis=Wędrówka przez dziewięć kręgów Mictlan doprowadzała dusze zmarłych na skraj szaleństwa i niebytu... Pierzasty Wąż, w odpowiedzi na ludzką rozpacz, odważył się na odbycie tej samej podróży, by z własnej krwi i prochów poległych na nowo przywołać człowieka do życia...;rarity=legendary;reqp=pw;sa=193;slow=78",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 31235,
@@ -21842,7 +22127,10 @@
       "cl": 12,
       "pr": 484141,
       "st": 0,
-      "stat": "binds;crit=3;critval=18;da=70;dz=141;energybon=53;evade=49;hp=1922;legbon=lastheal,246;lvl=246;opis=Wymagany do otworzenia Księgi Cieni - zbioru najpotężniejszych zaklęć spisanych i przechowywanych przez tristamskie wiedźmy. Poza Sybillą nikt jednak nie wie, gdzie ów tajemniczy wolumin jest ukryty...;rarity=legendary;reqp=bht;sa=254"
+      "stat": "binds;crit=3;critval=18;da=70;dz=141;energybon=53;evade=49;hp=1922;legbon=lastheal,246;lvl=246;opis=Wymagany do otworzenia Księgi Cieni - zbioru najpotężniejszych zaklęć spisanych i przechowywanych przez tristamskie wiedźmy. Poza Sybillą nikt jednak nie wie, gdzie ów tajemniczy wolumin jest ukryty...;rarity=legendary;reqp=bht;sa=254",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 31234,
@@ -21851,7 +22139,37 @@
       "cl": 12,
       "pr": 461086,
       "st": 0,
-      "stat": "binds;crit=4;critmval=12;di=277;heal=1142;hp=3819;legbon=cleanse,246;lvl=246;manabon=128;opis=Jako przywódca mahopteckiego plemienia, Cuaitl Citlalin utożsamiany był ze Świętym Krukiem - symbolem przenikliwości. Dzięki mocy, która zagnieździła się w tym pierścieniu, posiadł on możliwość zaglądania w głąb dusz i błądzenia swym umysłem po zaświatach. Czy zechcesz poznać tajemnice, jakie zostały mu objawione?;rarity=legendary;reqp=mp;sa=193"
+      "stat": "binds;crit=4;critmval=12;di=277;heal=1142;hp=3819;legbon=cleanse,246;lvl=246;manabon=128;opis=Jako przywódca mahopteckiego plemienia, Cuaitl Citlalin utożsamiany był ze Świętym Krukiem - symbolem przenikliwości. Dzięki mocy, która zagnieździła się w tym pierścieniu, posiadł on możliwość zaglądania w głąb dusz i błądzenia swym umysłem po zaświatach. Czy zechcesz poznać tajemnice, jakie zostały mu objawione?;rarity=legendary;reqp=mp;sa=193",
+      "tags": [
+        "removed"
+      ]
+    },
+    {
+      "id": 60118,
+      "name": "Gniazdo wielkiej przenikliwości",
+      "icon": "pie/pierscien1367.gif",
+      "cl": 12,
+      "pr": 468576,
+      "st": 0,
+      "stat": "binds;crit=4;critmval=12;di=280;heal=1155;hp=3862;legbon=glare,248;lvl=248;manabon=129;opis=Jako przywódca mahopteckiego plemienia, Cuaitl Citlalin utożsamiany był ze Świętym Krukiem - symbolem przenikliwości. Dzięki mocy, która zagnieździła się w tym pierścieniu, posiadł on możliwość zaglądania w głąb dusz i błądzenia swym umysłem po zaświatach. Czy zechcesz poznać tajemnice, jakie zostały mu objawione?;rarity=legendary;reqp=m;sa=194"
+    },
+    {
+      "id": 60117,
+      "name": "Ollin",
+      "icon": "pie/pierscien1366.gif",
+      "cl": 12,
+      "pr": 425012,
+      "st": 0,
+      "stat": "binds;crit=5;ds=693;energybon=53;legbon=glare,248;lowevade=50;lvl=248;opis=Siły tyle, co nie miara,[br]ta błyskotka oferuje![br]Ten, kto z tobą w szranki stanie,[br]szybko tego pożałuje!;rarity=legendary;reqp=pw;sa=194"
+    },
+    {
+      "id": 60116,
+      "name": "Sygnet z kości konkwistadorów",
+      "icon": "pie/pierscien1365.gif",
+      "cl": 12,
+      "pr": 492005,
+      "st": 0,
+      "stat": "binds;crit=3;critval=18;da=70;dz=142;energybon=53;evade=50;hp=1943;legbon=critred,248;lvl=248;opis=Sygnet ten wyrzeźbiony został z kości najeźdźców próbujących napaść i zniewolić dumne plemię Mahopteków. Złożony w ofierze Quetzalcoatlowi, który tchnął w niego odrobinę magii, pierścień służyć miał wodzom Ludu Gór jako groźba, a zarazem obrona przed wrogimi siłami ciemiężców.;rarity=legendary;reqp=bht;sa=256"
     },
     {
       "id": 57962,
@@ -22103,7 +22421,10 @@
       "cl": 13,
       "pr": 551176,
       "st": 0,
-      "stat": "binds;blok=38;crit=4;critval=18;ds=421;energybon=27;hp=1965;legbon=verycrit,250;lowevade=25;lvl=250;opis=Wykonany ze znalezionych kawałków skóry[br]Nanahuatzina. Boga, który bez wahania rzucił[br]się w ogień i stał się słońcem.;rarity=legendary;reqp=w;resfrost=-3;reslight=3;sa=258"
+      "stat": "binds;blok=38;crit=4;critval=18;ds=421;energybon=27;hp=1965;legbon=verycrit,250;lowevade=25;lvl=250;opis=Wykonany ze znalezionych kawałków skóry[br]Nanahuatzina. Boga, który bez wahania rzucił[br]się w ogień i stał się słońcem.;rarity=legendary;reqp=w;resfrost=-3;reslight=3;sa=258",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 29943,
@@ -22112,7 +22433,10 @@
       "cl": 13,
       "pr": 559986,
       "st": 0,
-      "stat": "crit=3;critmval=18;da=71;di=144;evade=25;heal=1181;hp=1987;legbon=lastheal,252;lvl=252;manabon=63;opis=Utrata świętych talizmanów zwiastować miała nadchodzące zło. Bóstwa jednak obiecały, że prędzej czy później kosztowności wrócą do ich wyznawców, a cykl rozpocznie się na nowo. Krwawy księżyc zalśni zaś na niebie odbijając na swej tarczy przerażające, karmazynowe polany i rzeki splamione szkarłatem...;permbound;rarity=legendary;reqp=mt;sa=260;slow=80"
+      "stat": "crit=3;critmval=18;da=71;di=144;evade=25;heal=1181;hp=1987;legbon=lastheal,252;lvl=252;manabon=63;opis=Utrata świętych talizmanów zwiastować miała nadchodzące zło. Bóstwa jednak obiecały, że prędzej czy później kosztowności wrócą do ich wyznawców, a cykl rozpocznie się na nowo. Krwawy księżyc zalśni zaś na niebie odbijając na swej tarczy przerażające, karmazynowe polany i rzeki splamione szkarłatem...;permbound;rarity=legendary;reqp=mt;sa=260;slow=80",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 29942,
@@ -22121,7 +22445,10 @@
       "cl": 13,
       "pr": 533320,
       "st": 0,
-      "stat": "crit=3;critval=12;da=71;ds=144;energybon=27;evade=25;hp=7873;legbon=holytouch,252;lowevade=25;lvl=252;opis=Gdy wieść o kolejnych aktach nieposłuszeństwa Organizacji i utracie antycznych manuskryptów dotarła do Rady Magicznej, wysłali oni jednego ze swej ósemki - Revga, w miejsce aktualnego stacjonowania grupy. Nie przejmując się konsekwencjami, wysłannik bestialsko chwycił za gardło młodego maga odpowiadającego za bezpieczeństwo rękopisów, a skradziony mahoptecki naszyjnik stał się pętlą, na której w blasku księżycowej łuny zawisło jego ciało. Był to pierwszy, niezwykle dosadny krok ku przyszłej anihilacji całej grupy przez jej zwierzchników.;permbound;rarity=legendary;reqp=bhpw;sa=260"
+      "stat": "crit=3;critval=12;da=71;ds=144;energybon=27;evade=25;hp=7873;legbon=holytouch,252;lowevade=25;lvl=252;opis=Gdy wieść o kolejnych aktach nieposłuszeństwa Organizacji i utracie antycznych manuskryptów dotarła do Rady Magicznej, wysłali oni jednego ze swej ósemki - Revga, w miejsce aktualnego stacjonowania grupy. Nie przejmując się konsekwencjami, wysłannik bestialsko chwycił za gardło młodego maga odpowiadającego za bezpieczeństwo rękopisów, a skradziony mahoptecki naszyjnik stał się pętlą, na której w blasku księżycowej łuny zawisło jego ciało. Był to pierwszy, niezwykle dosadny krok ku przyszłej anihilacji całej grupy przez jej zwierzchników.;permbound;rarity=legendary;reqp=bhpw;sa=260",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 29941,
@@ -22130,7 +22457,10 @@
       "cl": 10,
       "pr": 587985,
       "st": 0,
-      "stat": "ac=558;act=8;crit=2;critval=6;ds=144;evade=25;hp=1157;legbon=lastheal,252;lowcrit=2;lowevade=25;lvl=252;opis=Będąc całkowicie pochłoniętym tworzeniem z wierzbowego pnia swego nowego tworu - Silvanasusa, młody mag nie wyczuł nawet obecności kogoś spoza grona wtajemniczonych. Gdy usłyszawszy dźwięk łamanej gałęzi odwrócił się, w jaskini nie było już nikogo, a torba z manuskryptami, której miał strzec jak oka w głowie, została całkowicie opróżniona.;permbound;rarity=legendary;reqp=bhw;resfire=5;sa=260"
+      "stat": "ac=558;act=8;crit=2;critval=6;ds=144;evade=25;hp=1157;legbon=lastheal,252;lowcrit=2;lowevade=25;lvl=252;opis=Będąc całkowicie pochłoniętym tworzeniem z wierzbowego pnia swego nowego tworu - Silvanasusa, młody mag nie wyczuł nawet obecności kogoś spoza grona wtajemniczonych. Gdy usłyszawszy dźwięk łamanej gałęzi odwrócił się, w jaskini nie było już nikogo, a torba z manuskryptami, której miał strzec jak oka w głowie, została całkowicie opróżniona.;permbound;rarity=legendary;reqp=bhw;resfire=5;sa=260",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 29940,
@@ -22139,7 +22469,10 @@
       "cl": 10,
       "pr": 533320,
       "st": 0,
-      "stat": "ac=480;act=12;crit=2;critval=12;dz=144;energybon=27;evade=50;legbon=curse,252;lvl=252;opis=Spotkanie w pustynnych katakumbach Cesarzowej z plemienia Centauri oraz Łowczyni Wspomnień nie mogło przynieść bardziej owocnych rezultatów. W zamian za pomoc w wydobyciu z antycznych mumii wspomnień o dalekiej przeszłości, dawniej rudowłosa półolbrzymka zobowiązała podzielić się z wysłannicą magów przedmiotami, jakie odnalazła, penetrując przez ostatnie dziesięć lat pustynne tereny. Wśród nich było dokładnie to, czego szukała... Pradawne manuskrypty zawierające treści, które powinny zniknąć wraz z tamtą cywilizacją.;permbound;rarity=legendary;reqp=bht;reslight=8;sa=260"
+      "stat": "ac=480;act=12;crit=2;critval=12;dz=144;energybon=27;evade=50;legbon=curse,252;lvl=252;opis=Spotkanie w pustynnych katakumbach Cesarzowej z plemienia Centauri oraz Łowczyni Wspomnień nie mogło przynieść bardziej owocnych rezultatów. W zamian za pomoc w wydobyciu z antycznych mumii wspomnień o dalekiej przeszłości, dawniej rudowłosa półolbrzymka zobowiązała podzielić się z wysłannicą magów przedmiotami, jakie odnalazła, penetrując przez ostatnie dziesięć lat pustynne tereny. Wśród nich było dokładnie to, czego szukała... Pradawne manuskrypty zawierające treści, które powinny zniknąć wraz z tamtą cywilizacją.;permbound;rarity=legendary;reqp=bht;reslight=8;sa=260",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 29939,
@@ -22148,7 +22481,10 @@
       "cl": 10,
       "pr": 617384,
       "st": 0,
-      "stat": "absorb=1501;absorbm=751;ac=360;act=6;crit=2;critmval=12;heal=642;legbon=verycrit,252;lowcrit=2;lvl=252;manabon=63;opis=Dostarczone przez Cesarzową niezwykle cenne rękopisy, powierzone zostały w ręce członków Organizacji, którzy na ich podstawie stworzyć mieli kolejną wojenną bestię. Wyrżnąwszy prawie że w pień populację gnomów, celem uzyskania odpowiednich ilości krwi, rozpoczęli odprawianie rytuałów i formowanie głównego cielska kolosa. I może wszystko skończyłoby się dobrze, gdyby nie ich nadmierna pycha, w wyniku której powstała nie jedna, a aż cztery potężne bestie, co nie spodobało się wspaniałej ósemce z Rady Magicznej.;permbound;rarity=legendary;reqp=mt;resfrost=15;sa=197;slow=80"
+      "stat": "absorb=1501;absorbm=751;ac=360;act=6;crit=2;critmval=12;heal=642;legbon=verycrit,252;lowcrit=2;lvl=252;manabon=63;opis=Dostarczone przez Cesarzową niezwykle cenne rękopisy, powierzone zostały w ręce członków Organizacji, którzy na ich podstawie stworzyć mieli kolejną wojenną bestię. Wyrżnąwszy prawie że w pień populację gnomów, celem uzyskania odpowiednich ilości krwi, rozpoczęli odprawianie rytuałów i formowanie głównego cielska kolosa. I może wszystko skończyłoby się dobrze, gdyby nie ich nadmierna pycha, w wyniku której powstała nie jedna, a aż cztery potężne bestie, co nie spodobało się wspaniałej ósemce z Rady Magicznej.;permbound;rarity=legendary;reqp=mt;resfrost=15;sa=197;slow=80",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 29938,
@@ -22157,7 +22493,10 @@
       "cl": 10,
       "pr": 587985,
       "st": 0,
-      "stat": "absorb=890;absorbm=445;ac=532;blok=38;crit=2;di=144;heal=325;hp=1157;legbon=facade,252;lvl=252;manabon=126;opis=Fiolka gnomiej krwi wylana na pień świeżo ściętego wiekowego dębu, wzmocniona antycznym zaklęciem, zrodziła z niego dwie bliźniacze istoty - Dendroculusa, który odziedziczył fizyczną potęgę drzewa oraz Cerasusa - dziedzica magii żyjącej w nim hamadriady. Tego dnia, wyrywając się spod kontroli magów, rozpoczęli swe rządy na ziemiach zakorzenionego ludu.;permbound;rarity=legendary;reqp=mp;resfrost=12;sa=260"
+      "stat": "absorb=890;absorbm=445;ac=532;blok=38;crit=2;di=144;heal=325;hp=1157;legbon=facade,252;lvl=252;manabon=126;opis=Fiolka gnomiej krwi wylana na pień świeżo ściętego wiekowego dębu, wzmocniona antycznym zaklęciem, zrodziła z niego dwie bliźniacze istoty - Dendroculusa, który odziedziczył fizyczną potęgę drzewa oraz Cerasusa - dziedzica magii żyjącej w nim hamadriady. Tego dnia, wyrywając się spod kontroli magów, rozpoczęli swe rządy na ziemiach zakorzenionego ludu.;permbound;rarity=legendary;reqp=mp;resfrost=12;sa=260",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 29937,
@@ -22166,7 +22505,10 @@
       "cl": 10,
       "pr": 559986,
       "st": 0,
-      "stat": "ac=625;act=1;crit=1;critval=12;ds=144;energybon=54;heal=325;legbon=cleanse,252;lowevade=50;lvl=252;opis=Transmutacja dokonana przez Revga była ostatnią na tych terenach, nim ostatecznie rozgonił bawiącą się gnomią krwią hołotę. Odłamawszy kawałek korpusu Reuzena, złączył go z ciałem zabitego przez siebie maga Organizacji, tworząc strażnika owych ziem, nazwanego później przez okolicznych mieszkańców Dęborożcem.;permbound;rarity=legendary;reqp=pw;reslight=6;sa=197"
+      "stat": "ac=625;act=1;crit=1;critval=12;ds=144;energybon=54;heal=325;legbon=cleanse,252;lowevade=50;lvl=252;opis=Transmutacja dokonana przez Revga była ostatnią na tych terenach, nim ostatecznie rozgonił bawiącą się gnomią krwią hołotę. Odłamawszy kawałek korpusu Reuzena, złączył go z ciałem zabitego przez siebie maga Organizacji, tworząc strażnika owych ziem, nazwanego później przez okolicznych mieszkańców Dęborożcem.;permbound;rarity=legendary;reqp=pw;reslight=6;sa=197",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 7102,
@@ -22175,7 +22517,10 @@
       "cl": 13,
       "pr": 617384,
       "st": 0,
-      "stat": "binds;crit=3;critmval=6;da=134;di=144;evade=25;heal=1181;hp=1987;legbon=curse,252;lowevade=25;lvl=252;manabon=131;opis=Wisior boga Huitzilopochtli, który codziennie o poranku walczy z księżycem i gwiazdami, by zginąć wieczorem. Karmi się esencją życia zawartą we krwi, by mieć siłę do walki z wrogami.;rarity=legendary;reqp=mpt;resfire=-6;reslight=6;sa=260"
+      "stat": "binds;crit=3;critmval=6;da=134;di=144;evade=25;heal=1181;hp=1987;legbon=curse,252;lowevade=25;lvl=252;manabon=131;opis=Wisior boga Huitzilopochtli, który codziennie o poranku walczy z księżycem i gwiazdami, by zginąć wieczorem. Karmi się esencją życia zawartą we krwi, by mieć siłę do walki z wrogami.;rarity=legendary;reqp=mpt;resfire=-6;reslight=6;sa=260",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 59778,
@@ -22184,7 +22529,11 @@
       "cl": 10,
       "pr": 622270,
       "st": 0,
-      "stat": "absorb=1511;absorbm=755;ac=363;act=6;binds;crit=2;critmval=12;di=285;heal=327;legbon=puncture,253;lvl=253;opis=Ostatni krzyk mody! Zachwycą zarówno podczas zimowych spacerów, jak i na lodowisku - wszystko dzięki specjalnemu mechanizmowi pozwalającemu na stabilny montaż płóz do podeszw.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=mt;resfire=9;reslight=6;sa=198;slow=153"
+      "stat": "absorb=1511;absorbm=755;ac=363;act=6;binds;crit=2;critmval=12;di=285;heal=327;legbon=puncture,253;lvl=253;opis=Ostatni krzyk mody! Zachwycą zarówno podczas zimowych spacerów, jak i na lodowisku - wszystko dzięki specjalnemu mechanizmowi pozwalającemu na stabilny montaż płóz do podeszw.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=mt;resfire=9;reslight=6;sa=198;slow=153",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 59777,
@@ -22193,7 +22542,11 @@
       "cl": 10,
       "pr": 511943,
       "st": 0,
-      "stat": "ac=629;act=1;binds;crit=4;energybon=27;hp=1162;legbon=anguish,253;lowevade=51;lvl=253;opis=Zakładając obuwie to na stopy zastanawiasz się, czy nie zmieni się ono w zwykłe błoto wraz z najbliższymi roztopami... Odrobina ryzyka jednak w życiu nie zaszkodzi![br][br]Gwiazdka 2025 r.[br];rarity=legendary;reqp=pw;resfire=6;sa=261"
+      "stat": "ac=629;act=1;binds;crit=4;energybon=27;hp=1162;legbon=anguish,253;lowevade=51;lvl=253;opis=Zakładając obuwie to na stopy zastanawiasz się, czy nie zmieni się ono w zwykłe błoto wraz z najbliższymi roztopami... Odrobina ryzyka jednak w życiu nie zaszkodzi![br][br]Gwiazdka 2025 r.[br];rarity=legendary;reqp=pw;resfire=6;sa=261",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 59776,
@@ -22202,7 +22555,11 @@
       "cl": 10,
       "pr": 564417,
       "st": 0,
-      "stat": "ac=514;act=12;binds;crit=1;ds=145;dz=145;energybon=27;evade=76;legbon=anguish,253;lowevade=25;lvl=253;opis=Według sprzedającego, obuwie to miało pozwalać na bezproblemowe przedzieranie się przez zamarznięte rzeki i jeziora. Szkoda było nie dokonać zakupu, gdyż do jednego buta - uwaga, uwaga - drugi dokładany był gratis![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=bh;resfire=6;sa=261"
+      "stat": "ac=514;act=12;binds;crit=1;ds=145;dz=145;energybon=27;evade=76;legbon=anguish,253;lowevade=25;lvl=253;opis=Według sprzedającego, obuwie to miało pozwalać na bezproblemowe przedzieranie się przez zamarznięte rzeki i jeziora. Szkoda było nie dokonać zakupu, gdyż do jednego buta - uwaga, uwaga - drugi dokładany był gratis![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=bh;resfire=6;sa=261",
+      "tags": [
+        "event-xmas-25",
+        "event"
+      ]
     },
     {
       "id": 27455,
@@ -22211,7 +22568,10 @@
       "cl": 11,
       "pr": 541777,
       "st": 0,
-      "stat": "ac=487;act=6;binds;crit=3;critval=6;da=72;evade=25;hp=1107;legbon=critred,254;lowevade=25;lvl=254;opis=Powstań, wiedźmowa potęgo,[br]szybuj wysoko, gdzie góry i lasy.[br]Przybądź tutaj, wzywam cię,[br]przybądź tu i bądź po wsze czasy.;rarity=legendary;reqp=bhpw;reslight=6;sa=199;slow=81"
+      "stat": "ac=487;act=6;binds;crit=3;critval=6;da=72;evade=25;hp=1107;legbon=critred,254;lowevade=25;lvl=254;opis=Powstań, wiedźmowa potęgo,[br]szybuj wysoko, gdzie góry i lasy.[br]Przybądź tutaj, wzywam cię,[br]przybądź tu i bądź po wsze czasy.;rarity=legendary;reqp=bhpw;reslight=6;sa=199;slow=81",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 27454,
@@ -22220,7 +22580,10 @@
       "cl": 11,
       "pr": 627175,
       "st": 0,
-      "stat": "absorb=1267;absorbm=634;ac=304;act=6;binds;crit=3;critmval=12;di=145;heal=309;hp=1107;legbon=glare,254;lowcrit=2;lvl=254;opis=Płomień wiedźmy rozprasza cienie,[br]chcę w cudzy umysł mieć dziś wejrzenie.[br]Niech me życzenie prędko się ziści,[br]magia pozwoli usłyszeć ich myśli...;rarity=legendary;reqp=mt;resfrost=15;sa=199"
+      "stat": "absorb=1267;absorbm=634;ac=304;act=6;binds;crit=3;critmval=12;di=145;heal=309;hp=1107;legbon=glare,254;lowcrit=2;lvl=254;opis=Płomień wiedźmy rozprasza cienie,[br]chcę w cudzy umysł mieć dziś wejrzenie.[br]Niech me życzenie prędko się ziści,[br]magia pozwoli usłyszeć ich myśli...;rarity=legendary;reqp=mt;resfrost=15;sa=199",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 48446,
@@ -22353,13 +22716,41 @@
       ]
     },
     {
+      "id": 60066,
+      "name": "Cholewy boskiego lśnienia",
+      "icon": "but/buty1402.gif",
+      "cl": 10,
+      "pr": 550301,
+      "st": 0,
+      "stat": "ac=462;act=14;binds;crit=2;critval=12;dz=146;energybon=27;evade=51;legbon=curse,256;lvl=256;opis=Każda osoba, nosząca to obuwie, ryzykuje, że zostanie oskarżona przez plemię Mahopteków o zabójstwo ich boga. Wiadomość ta ucieszy jednak na pewno Tezcatlipokę, który być może wynagrodzi to szczęściem i łaskawością.;rarity=legendary;reqp=ht;reslight=9;sa=264"
+    },
+    {
+      "id": 60065,
+      "name": "Stąpanie Dwóch Słońc",
+      "icon": "but/buty1401.gif",
+      "cl": 10,
+      "pr": 606706,
+      "st": 0,
+      "stat": "absorb=924;absorbm=462;ac=462;binds;blok=38;crit=2;heal=655;legbon=facade,256;lvl=256;manabon=197;opis=Składane w ofierze Pierzastemu Wężowi przedmioty często nawiązywały do jego udziału w losach świata - pełnienia roli Drugiego Słońca. Według lokalnych wierzeń symbolika ta sprawiała, że bóstwo było łaskawsze dla swoich wyznawców.;rarity=legendary;reqp=mp;resfrost=11;reslight=3;sa=200;slow=81"
+    },
+    {
+      "id": 60064,
+      "name": "Wyobrażenie Mictlantecuhtliego",
+      "icon": "but/buty1400.gif",
+      "cl": 10,
+      "pr": 524096,
+      "st": 0,
+      "stat": "ac=610;act=5;binds;crit=4;ds=288;evade=26;legbon=facade,256;lowcrit=2;lvl=256;opis=Wizja najwyższego kapłana Mahopteków, podczas której spotkał samego Mictlantecuhtliego - pana krainy umarłych - doprowadziła do stworzenia tej przedziwnej pary obuwia. Przy opisywaniu sylwetki bóstwa rzemieślnikowi zdawało się, że członek starzyzny wchodził w trans i odpływał myślami do samego Mictlan...;rarity=legendary;reqp=bw;resfire=4;sa=264"
+    },
+    {
       "id": 34047,
       "name": "Czaszka Huitzilopochtli",
       "icon": "hel/helm418.gif",
       "cl": 9,
       "pr": 577816,
       "st": 0,
-      "stat": "ac=630;act=8;binds;crit=2;critval=6;da=72;energybon=27;evade=51;hp=1215;legbon=facade,256;lvl=256;opis=Zdobiona jaskrawymi piórami kolibra czaszka tego, który rodzi się codziennie na nowo i umiera wraz z zachodem słońca. Czerep najznamienitszej z istot, żywiącej się krwią i jeszcze drgającymi ludzkimi sercami, przechowywany jako najwspanialszy trybut plemienia, spoczął teraz w twych dłoniach. Jakie kryje w sobie moce?;rarity=legendary;reqp=bhw;resfire=5;sa=264"
+      "stat": "ac=630;act=8;binds;crit=2;critval=6;da=72;energybon=27;evade=51;hp=1215;legbon=facade,256;lvl=256;opis=Zdobiona jaskrawymi piórami kolibra czaszka tego, który rodzi się codziennie na nowo i umiera wraz z zachodem słońca. Czerep najznamienitszej z istot, żywiącej się krwią i jeszcze drgającymi ludzkimi sercami, przechowywany jako najwspanialszy trybut plemienia, spoczął teraz w twych dłoniach. Jakie kryje w sobie moce?;rarity=legendary;reqp=bhw;resfire=5;sa=264",
+      "tags": []
     },
     {
       "id": 34046,
@@ -22368,7 +22759,8 @@
       "cl": 9,
       "pr": 668894,
       "st": 0,
-      "stat": "absorb=1694;absorbm=847;ac=407;act=11;binds;crit=2;critmval=18;di=146;legbon=facade,256;lowcrit=2;lowevade=26;lvl=256;manabon=69;opis=Wypalona z najlepszego rodzaju gliny i skąpana w złocie maska, złożona w ofierze najwyższym bóstwom. Niekiedy z pustych jej oczodołów toczy się brunatna posoka, przypominając wiernym, że nadszedł już czas, aby rzeki krwi ponownie spłynęły po świętych ścianach piramid...;rarity=legendary;reqp=mt;resfire=3;resfrost=9;sa=200"
+      "stat": "absorb=1694;absorbm=847;ac=407;act=11;binds;crit=2;critmval=18;di=146;legbon=facade,256;lowcrit=2;lowevade=26;lvl=256;manabon=69;opis=Wypalona z najlepszego rodzaju gliny i skąpana w złocie maska, złożona w ofierze najwyższym bóstwom. Niekiedy z pustych jej oczodołów toczy się brunatna posoka, przypominając wiernym, że nadszedł już czas, aby rzeki krwi ponownie spłynęły po świętych ścianach piramid...;rarity=legendary;reqp=mt;resfire=3;resfrost=9;sa=200",
+      "tags": []
     },
     {
       "id": 34045,
@@ -22377,7 +22769,35 @@
       "cl": 9,
       "pr": 606706,
       "st": 0,
-      "stat": "ac=678;binds;blok=38;crit=2;da=72;energybon=27;heal=343;hp=1215;legbon=critred,256;lowevade=26;lvl=256;manabon=69;opis=Odurzone ciało ofiary składano na rozżarzonych węglach, które wżerały się w tkankę, zaś nałożywszy tę maskę kapłan, używając obsydianowego noża, wyrywał spomiędzy otulonych płomieniami piersi bijące nadal serce. Wierzono, iż po zakończeniu tej ceremonii bogowie byli obłaskawieni, a świat uratowany na kolejne pięćdziesiąt dwa lata...;rarity=legendary;reqp=p;resfrost=9;sa=200"
+      "stat": "ac=678;binds;blok=38;crit=2;da=72;energybon=27;heal=343;hp=1215;legbon=critred,256;lowevade=26;lvl=256;manabon=69;opis=Odurzone ciało ofiary składano na rozżarzonych węglach, które wżerały się w tkankę, zaś nałożywszy tę maskę kapłan, używając obsydianowego noża, wyrywał spomiędzy otulonych płomieniami piersi bijące nadal serce. Wierzono, iż po zakończeniu tej ceremonii bogowie byli obłaskawieni, a świat uratowany na kolejne pięćdziesiąt dwa lata...;rarity=legendary;reqp=p;resfrost=9;sa=200",
+      "tags": []
+    },
+    {
+      "id": 60094,
+      "name": "Brama do zaświatów",
+      "icon": "nas/naszyjnik1358.gif",
+      "cl": 13,
+      "pr": 582317,
+      "st": 0,
+      "stat": "binds;crit=3;critmval=6;da=137;di=147;evade=26;heal=1215;hp=2042;legbon=curse,257;lowevade=26;lvl=257;manabon=134;opis=Wędrówka przez dziewięć kręgów Mictlan doprowadzała dusze zmarłych na skraj szaleństwa i niebytu... Pierzasty Wąż, w odpowiedzi na ludzką rozpacz, odważył się na odbycie tej samej podróży, by z własnej krwi i prochów poległych na nowo przywołać człowieka do życia. Nie było to jednak zgodne z wizją Tezcatlipoki, który skradł bramę do Mictlan i powierzył ją Tepeyollotlowi, zamykając Quetzalcoatla w wiecznej pułapce.;rarity=legendary;reqp=mpt;sa=265"
+    },
+    {
+      "id": 60093,
+      "name": "Kręgosłupy boskich bliźniąt",
+      "icon": "nas/naszyjnik1357.gif",
+      "cl": 13,
+      "pr": 503027,
+      "st": 0,
+      "stat": "binds;blok=39;crit=4;critval=18;ds=575;energybon=27;legbon=verycrit,257;lowevade=26;lvl=257;opis=W złączonch ze sobą kręgosłupach boskich bliźniąt nadal drzemią moce, których użyli w walce z siłami zła. Niegdyś ich celem było uwolnienie skradzionego słońca, by przywrócić blask krainie... Czemu się przysłużą będąc na twojej szyi?;rarity=legendary;reqp=w;sa=265"
+    },
+    {
+      "id": 60092,
+      "name": "Symbol Wieczności",
+      "icon": "nas/naszyjnik1356.gif",
+      "cl": 13,
+      "pr": 528178,
+      "st": 0,
+      "stat": "binds;crit=4;critval=12;dmgmulphysical=3;dz=290;energybon=27;evade=51;heal=611;legbon=curse,257;lvl=257;opis=Świat został już zniszczony cztery razy, ale[br]czas i bogowie są wieczni... Karmią się ludzką[br]krwią, która spływa po schodach świątyni[br]Tezcatlipoki.;rarity=legendary;reqp=bh;sa=329"
     },
     {
       "id": 44659,
@@ -22386,7 +22806,37 @@
       "cl": 9,
       "pr": 506930,
       "st": 0,
-      "stat": "ac=618;crit=3;da=73;energybon=27;heal=347;legbon=lastheal,258;lvl=258;manabon=65;opis=Ogromny pióropusz zdobił głowę boskiego jaguara przez niezliczone lata, pozwalając mu na bezpieczne przemierzanie wszystkich z dziewięciu poziomów Mictlan. Korona ta wykonana była jednak przez ludzi - z drogocennych, aczkolwiek w pełni zwyczajnych surowców. Przebywanie Tezcatlipoki w Podziemiach coraz mocniej wysysało więc z nakrycia głowy jego materialne, nieboskie cząsteczki, przez co pełen mocy, masywnie i nadobnie wyglądający pióropusz jest teraz niemal lżejszy od powietrza.;permbound;rarity=legendary;sa=266;slow=155"
+      "stat": "ac=618;crit=3;da=73;energybon=27;heal=347;legbon=lastheal,258;lvl=258;manabon=65;opis=Ogromny pióropusz zdobił głowę boskiego jaguara przez niezliczone lata, pozwalając mu na bezpieczne przemierzanie wszystkich z dziewięciu poziomów Mictlan. Korona ta wykonana była jednak przez ludzi - z drogocennych, aczkolwiek w pełni zwyczajnych surowców. Przebywanie Tezcatlipoki w Podziemiach coraz mocniej wysysało więc z nakrycia głowy jego materialne, nieboskie cząsteczki, przez co pełen mocy, masywnie i nadobnie wyglądający pióropusz jest teraz niemal lżejszy od powietrza.;permbound;rarity=legendary;sa=266;slow=155",
+      "tags": [
+        "removed"
+      ]
+    },
+    {
+      "id": 38831,
+      "name": "Zdobione Nacochtli",
+      "icon": "neu/itm-tepey14.gif",
+      "cl": 15,
+      "pr": 258,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=258;opis=Jeden z 18 składników legendarnego stroju[br]Tepeyollotla. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 38830,
+      "name": "Skóra boskiego jaguara",
+      "icon": "neu/itm-tepey8.gif",
+      "cl": 15,
+      "pr": 258,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=258;opis=Jeden z 18 składników legendarnego stroju[br]Tepeyollotla. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 38829,
+      "name": "Maska Xipe Totec",
+      "icon": "neu/itm-tepey15.gif",
+      "cl": 15,
+      "pr": 258,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=258;opis=Jeden z 18 składników legendarnego stroju[br]Tepeyollotla. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 30779,
@@ -22395,7 +22845,10 @@
       "cl": 11,
       "pr": 616177,
       "st": 0,
-      "stat": "ac=541;acdmg=31;act=1;blok=39;crit=2;critval=12;ds=147;energybon=27;legbon=glare,258;lowevade=26;lvl=258;opis=Stworzone z licznych, krwawych strzępków skóry Quetzalcoatla, które wraz z łuskami odprysnęły z jego ciała, gdy Tezcatlipoca - zaciskając swą pięść - sprowadził go na skraj śmierci. Pierzastemu Wężowi udało się jednak uciec z boskiego starcia.;permbound;rarity=legendary;reqp=pw;reslight=6;sa=266"
+      "stat": "ac=541;acdmg=31;act=1;blok=39;crit=2;critval=12;ds=147;energybon=27;legbon=glare,258;lowevade=26;lvl=258;opis=Stworzone z licznych, krwawych strzępków skóry Quetzalcoatla, które wraz z łuskami odprysnęły z jego ciała, gdy Tezcatlipoca - zaciskając swą pięść - sprowadził go na skraj śmierci. Pierzastemu Wężowi udało się jednak uciec z boskiego starcia.;permbound;rarity=legendary;reqp=pw;reslight=6;sa=266",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 30778,
@@ -22404,7 +22857,10 @@
       "cl": 11,
       "pr": 616177,
       "st": 0,
-      "stat": "ac=416;acdmg=31;act=12;crit=2;critval=6;dz=147;energybon=27;evade=52;legbon=verycrit,258;lvl=258;opis=Oto łapy tego, który dał nam ogień i światło... Tego, który przewodził magom, czarnoksiężnikom i wojakom naszego plemienia! A to zaś świętokradca i pogromca bogów, którego teraz to my musimy zgładzić! Miquiztli!;permbound;rarity=legendary;reqp=bht;resfire=8;sa=266;slow=82"
+      "stat": "ac=416;acdmg=31;act=12;crit=2;critval=6;dz=147;energybon=27;evade=52;legbon=verycrit,258;lvl=258;opis=Oto łapy tego, który dał nam ogień i światło... Tego, który przewodził magom, czarnoksiężnikom i wojakom naszego plemienia! A to zaś świętokradca i pogromca bogów, którego teraz to my musimy zgładzić! Miquiztli!;permbound;rarity=legendary;reqp=bht;resfire=8;sa=266;slow=82",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 30777,
@@ -22413,7 +22869,10 @@
       "cl": 11,
       "pr": 646986,
       "st": 0,
-      "stat": "absorb=1560;absorbm=780;ac=260;crit=2;critmval=12;di=147;heal=315;legbon=critred,258;lowcrit=2;lvl=258;manabon=65;opis=Na rok przed uroczystością, spośród wszystkich jeńców wojennych wybierany był najpiękniejszy spośród nich. Kształcony oraz czczony niczym sam Tezcatlipoca, już niebawem zakończyć miał swój żywot, by ofiara z jego właśnie serca zaspokoiła żądne krwi, łakome bóstwo...;permbound;rarity=legendary;reqp=m;resdmg=1;resfrost=16;sa=266"
+      "stat": "absorb=1560;absorbm=780;ac=260;crit=2;critmval=12;di=147;heal=315;legbon=critred,258;lowcrit=2;lvl=258;manabon=65;opis=Na rok przed uroczystością, spośród wszystkich jeńców wojennych wybierany był najpiękniejszy spośród nich. Kształcony oraz czczony niczym sam Tezcatlipoca, już niebawem zakończyć miał swój żywot, by ofiara z jego właśnie serca zaspokoiła żądne krwi, łakome bóstwo...;permbound;rarity=legendary;reqp=m;resdmg=1;resfrost=16;sa=266",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 12061,
@@ -22422,7 +22881,10 @@
       "cl": 12,
       "pr": 558891,
       "st": 0,
-      "stat": "crit=3;critmval=6;di=291;enfatig=40,12;heal=1222;hp=2053;legbon=holytouch,258;lvl=258;manabon=129;manafatig=40,27;opis=Spoglądasz na z lekka inkrustowany, srebrny sygnet. Twój wzrok napotyka szafir wyraźnie emanujący nieczystą, plugawą mocą. Powoli, spokojnie łączysz spojrzenie swoje z tym drugim, zimnym, nieczułym. Podświadomie dostrzegasz w najczystszej, lodowej tęczówce niewielką źrenicę. Czekasz na coś nieopisanego... Jednak, ku twemu rozczarowaniu, nic takiego nie ma miejsca. Nie wiesz czy było to urojenie, czy po prostu nie masz w sobie nic, czego mogliby chcieć lodowi bogowie...;permbound;rarity=legendary;reqp=mt;sa=331"
+      "stat": "crit=3;critmval=6;di=291;enfatig=40,12;heal=1222;hp=2053;legbon=holytouch,258;lvl=258;manabon=129;manafatig=40,27;opis=Spoglądasz na z lekka inkrustowany, srebrny sygnet. Twój wzrok napotyka szafir wyraźnie emanujący nieczystą, plugawą mocą. Powoli, spokojnie łączysz spojrzenie swoje z tym drugim, zimnym, nieczułym. Podświadomie dostrzegasz w najczystszej, lodowej tęczówce niewielką źrenicę. Czekasz na coś nieopisanego... Jednak, ku twemu rozczarowaniu, nic takiego nie ma miejsca. Nie wiesz czy było to urojenie, czy po prostu nie masz w sobie nic, czego mogliby chcieć lodowi bogowie...;permbound;rarity=legendary;reqp=mt;sa=331",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 12060,
@@ -22431,7 +22893,10 @@
       "cl": 12,
       "pr": 558891,
       "st": 0,
-      "stat": "crit=3;critval=6;ds=434;energybon=54;enfatig=40,12;heal=615;legbon=critred,258;lowevade=26;lvl=258;manafatig=40,27;opis=Przedwieczny pakt z demonem zobowiązał obie strony do obdarowania się cząstką samych siebie. Tezcatlipoca otrzymał plugawe serce, lecz za cenę pozbawienia się własnej duszy. Oprawione w głęboką zieleń szmaragdu, dające o sobie znać nieregularnym pulsem, czyha na kolejne ofiary. Bacz, by nie stać się jedną z nich...;permbound;rarity=legendary;reqp=pw;sa=331"
+      "stat": "crit=3;critval=6;ds=434;energybon=54;enfatig=40,12;heal=615;legbon=critred,258;lowevade=26;lvl=258;manafatig=40,27;opis=Przedwieczny pakt z demonem zobowiązał obie strony do obdarowania się cząstką samych siebie. Tezcatlipoca otrzymał plugawe serce, lecz za cenę pozbawienia się własnej duszy. Oprawione w głęboką zieleń szmaragdu, dające o sobie znać nieregularnym pulsem, czyha na kolejne ofiary. Bacz, by nie stać się jedną z nich...;permbound;rarity=legendary;reqp=pw;sa=331",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 12059,
@@ -22440,7 +22905,37 @@
       "cl": 12,
       "pr": 616177,
       "st": 0,
-      "stat": "crit=3;critval=6;dz=147;energybon=27;enfatig=40,12;evade=26;heal=615;hp=4080;legbon=holytouch,258;lvl=258;manafatig=40,27;opis=Patrząc w zgasłe, puste oczodoły czaszki osadzonej w sygnecie, widzisz hordy przeciwników legnących pod ciągłym naporem mieczy, jeńców bezskutecznie płaczących o wolność - a gdy odwracasz wzrok od głębokiej, onyksowej czerni, niewielki rozbłysk gdzieś w głębi przeżartej czasem kości na nowo hipnotyzuje cię i porywa w świat dawnych bitew...;permbound;rarity=legendary;reqp=bh;sa=331;slow=82"
+      "stat": "crit=3;critval=6;dz=147;energybon=27;enfatig=40,12;evade=26;heal=615;hp=4080;legbon=holytouch,258;lvl=258;manafatig=40,27;opis=Patrząc w zgasłe, puste oczodoły czaszki osadzonej w sygnecie, widzisz hordy przeciwników legnących pod ciągłym naporem mieczy, jeńców bezskutecznie płaczących o wolność - a gdy odwracasz wzrok od głębokiej, onyksowej czerni, niewielki rozbłysk gdzieś w głębi przeżartej czasem kości na nowo hipnotyzuje cię i porywa w świat dawnych bitew...;permbound;rarity=legendary;reqp=bh;sa=331;slow=82",
+      "tags": [
+        "removed"
+      ]
+    },
+    {
+      "id": 60242,
+      "name": "Zalążek Chaosu",
+      "icon": "pie/pierscien1375.gif",
+      "cl": 12,
+      "pr": 490269,
+      "st": 0,
+      "stat": "binds;crit=5;da=203;evade=26;heal=622;hp=4125;legbon=facade,260;lowevade=26;lvl=260;opis=Trzymasz w dłoni coś, co przypomina nasionko, choć nim nie jest, aczkolwiek... pełni jednaką funkcję. Wierzgające stworzonko to miniaturowa wersja olbrzymiego potwora żyjącego pod ziemią - umieść je w gruncie, a za kilkaset lat Bulwiak przybierze rozmiary swego rodzica!;rarity=legendary;sa=268"
+    },
+    {
+      "id": 60241,
+      "name": "Szałowe pazury Wabicielki",
+      "icon": "rek/rekawice1414.gif",
+      "cl": 11,
+      "pr": 689857,
+      "st": 0,
+      "stat": "absorb=1316;absorbm=658;ac=316;act=11;binds;crit=2;critmval=6;di=148;dz=148;evade=26;legbon=cleanse,260;lvl=260;manabon=200;opis=Kusi swą aparycją, lecz wystarczy się do niej zbliżyć, by ukazała swe prawdziwe oblicze! Wabicielka jest bowiem wyłącznie przekształconą macką stworzenia żyjącego pod Siedliskiem Przyjemnej Woni. Mawia się, że przybrany przez nią kształt odzwierciedla największe pragnienia jej obserwatora...;rarity=legendary;reqp=mt;resfire=6;reslight=6;sa=203"
+    },
+    {
+      "id": 60240,
+      "name": "Dłoń władcy podziemi",
+      "icon": "rek/rekawice1413.gif",
+      "cl": 11,
+      "pr": 595925,
+      "st": 0,
+      "stat": "ac=505;act=6;binds;crit=3;dz=148;energybon=27;evade=52;legbon=cleanse,260;lowevade=26;lvl=260;opis=Jego gatunek nosił wiele nazw i opisywany był na całym świecie w różnych epokach. Znany jako Tentaculum, Bulwiak, czy określany nawet w najbardziej bezpośredni sposób jako Podziemne Zło... Potwór stacjonujący pod ziemiami Zacisza Zimnych Wiatrów zdaje się być jednak większych rozmiarów, niż inne, wspomniane w księgach osobniki. Czyżby było to spowodowane oddziaływaniem na niego plugawej magii tych terenów?;rarity=legendary;reqp=bhpw;resfire=6;sa=203;slow=82"
     },
     {
       "id": 53827,
@@ -22612,33 +23107,6 @@
       ]
     },
     {
-      "id": 38831,
-      "name": "Zdobione Nacochtli",
-      "icon": "neu/itm-tepey14.gif",
-      "cl": 15,
-      "pr": 260,
-      "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=100;lvl=260;opis=Jeden z 18 składników legendarnego stroju[br]Tepeyollotla. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
-    },
-    {
-      "id": 38830,
-      "name": "Skóra boskiego jaguara",
-      "icon": "neu/itm-tepey8.gif",
-      "cl": 15,
-      "pr": 260,
-      "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=100;lvl=260;opis=Jeden z 18 składników legendarnego stroju[br]Tepeyollotla. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
-    },
-    {
-      "id": 38829,
-      "name": "Maska Xipe Totec",
-      "icon": "neu/itm-tepey15.gif",
-      "cl": 15,
-      "pr": 260,
-      "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=100;lvl=260;opis=Jeden z 18 składników legendarnego stroju[br]Tepeyollotla. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
-    },
-    {
       "id": 38150,
       "name": "Więzienie rycerskiej duszy",
       "icon": "hel/helm502.gif",
@@ -22736,7 +23204,10 @@
       "cl": 9,
       "pr": 567547,
       "st": 0,
-      "stat": "ac=625;binds;crit=1;da=73;energybon=27;enfatig=40,12;evade=26;heal=692;legbon=holytouch,260;lvl=260;manabon=70;manafatig=40,27;opis=Oto i jest głowa samego Serca Góry - tego, który wywoływał trzęsienia ziemi i panował nad echem. Po wyczerpującym boju przeciw bóstwu, jego odrąbana głowa spoczęła w twych rękach. Prawdziwą zagadką pozostaje to, czy zakładając obumarły łeb na siebie, przejmiesz boskie zdolności poprzednika.;rarity=legendary;sa=203"
+      "stat": "ac=625;binds;crit=1;da=73;energybon=27;enfatig=40,12;evade=26;heal=692;legbon=holytouch,260;lvl=260;manabon=70;manafatig=40,27;opis=Oto i jest głowa samego Serca Góry - tego, który wywoływał trzęsienia ziemi i panował nad echem. Po wyczerpującym boju przeciw bóstwu, jego odrąbana głowa spoczęła w twych rękach. Prawdziwą zagadką pozostaje to, czy zakładając obumarły łeb na siebie, przejmiesz boskie zdolności poprzednika.;rarity=legendary;sa=203",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 22778,
@@ -22797,7 +23268,10 @@
       "cl": 9,
       "pr": 540521,
       "st": 0,
-      "stat": "ac=625;binds;crit=1;da=138;evade=26;heal=350;hp=2451;legbon=verycrit,260;lowevade=26;lvl=260;opis=Czaszka świętej zdobyczy Camaxtli, oddana[br]jako trybut władcy imperium - Montezumie,[br]wraz z młodymi chłopcami i dziewczętami -[br]ofiarami dla Tenochtitlanu.;rarity=legendary;sa=203;slow=82"
+      "stat": "ac=625;binds;crit=1;da=138;evade=26;heal=350;hp=2451;legbon=verycrit,260;lowevade=26;lvl=260;opis=Czaszka świętej zdobyczy Camaxtli, oddana[br]jako trybut władcy imperium - Montezumie,[br]wraz z młodymi chłopcami i dziewczętami -[br]ofiarami dla Tenochtitlanu.;rarity=legendary;sa=203;slow=82",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 7060,
@@ -22806,7 +23280,10 @@
       "cl": 13,
       "pr": 514782,
       "st": 0,
-      "stat": "binds;crit=4;critval=18;dz=293;energybon=27;evade=52;legbon=curse,260;lowevade=26;lvl=260;opis=Świat został już zniszczony cztery razy, ale[br]czas i bogowie są wieczni, karmią się ludzką[br]krwią, która spływa po schodach świątyni[br]Tezcatlipoca.;rarity=legendary;reqp=bh;sa=333"
+      "stat": "binds;crit=4;critval=18;dz=293;energybon=27;evade=52;legbon=curse,260;lowevade=26;lvl=260;opis=Świat został już zniszczony cztery razy, ale[br]czas i bogowie są wieczni, karmią się ludzką[br]krwią, która spływa po schodach świątyni[br]Tezcatlipoca.;rarity=legendary;reqp=bh;sa=333",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 6853,
@@ -22815,7 +23292,10 @@
       "cl": 12,
       "pr": 490269,
       "st": 0,
-      "stat": "binds;crit=5;da=203;evade=26;heal=622;hp=4125;legbon=facade,260;lowevade=26;lvl=260;opis=Pierścień boga Ehecatla, który podjął się zabicia innych bogów. Dzięki ich krwi, Słońce i Księżyc palące ziemię, zostały puszczone w ruch. Kapłani Mahopteków do dzisiaj składają tę ofiarę krwi na szczytach swoich piramid.;rarity=legendary;sa=268"
+      "stat": "binds;crit=5;da=203;evade=26;heal=622;hp=4125;legbon=facade,260;lowevade=26;lvl=260;opis=Pierścień boga Ehecatla, który podjął się zabicia innych bogów. Dzięki ich krwi, Słońce i Księżyc palące ziemię, zostały puszczone w ruch. Kapłani Mahopteków do dzisiaj składają tę ofiarę krwi na szczytach swoich piramid.;rarity=legendary;sa=268",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 32487,
@@ -22843,6 +23323,87 @@
       "pr": 600496,
       "st": 0,
       "stat": "ac=477;act=14;binds;crit=1;critval=12;da=73;evade=78;hp=1206;legbon=critred,261;lvl=261;opis=Choć niekończący się upływ czasu okrył prawdę mgłą, buty te wciąż pamiętają chwalebne dla Imperium Wernoradu czasy. Pokonawszy w boju Królestwo Shaiharrud, które wypadło z łask Hebrehotha, wernoradcy nekrolordowie skradli jego tajemnice, a w chciwości i żądzy potęgi zawarli pakt ze złym Setem, by podbić świat i doszczętnie zniszczyć smoczych władców...;rarity=legendary;reqp=ht;reslight=9;sa=204;slow=83"
+    },
+    {
+      "id": 60190,
+      "name": "Wszechstronne obcasy Sybilli",
+      "icon": "but/buty1423.gif",
+      "cl": 10,
+      "pr": 700460,
+      "st": 0,
+      "stat": "absorb=1599;absorbm=800;ac=384;act=6;binds;crit=2;critmval=12;di=441;heal=341;hp=1211;legbon=verycrit,262;lvl=262;opis=\"Rzucam klątwę na twój tłuszcz,[br]rzucam klątwę na twój biust![br]Rzucam klątwę na twą duszę...[br]Wróżę z ręki i fusy suszę!\";rarity=legendary;reqp=mt;resfire=9;resfrost=3;reslight=3;sa=205"
+    },
+    {
+      "id": 60189,
+      "name": "Buciory wiedźmiej potęgi",
+      "icon": "but/buty1421.gif",
+      "cl": 10,
+      "pr": 605084,
+      "st": 0,
+      "stat": "ac=665;act=1;binds;blok=79;crit=2;critval=6;ds=150;energybon=55;heal=341;legbon=puncture,262;lvl=262;opis=\"Powstań, wiedźmowa potęgo,[br]szybuj wysoko, gdzie góry i lasy.[br]Przybądź tutaj, wzywam cię,[br]przybądź tu i bądź po wsze czasy!\";rarity=legendary;reqp=pw;resfire=6;sa=205"
+    },
+    {
+      "id": 60188,
+      "name": "Pantofle infiltracji umysłów",
+      "icon": "but/buty1422.gif",
+      "cl": 10,
+      "pr": 576271,
+      "st": 0,
+      "stat": "ac=544;act=12;binds;ds=150;dz=150;evade=26;hp=5957;legbon=puncture,262;lvl=262;opis=\"Płomień wiedźmy rozprasza cienie,[br]chcę w cudzy umysł mieć dziś wejrzenie.[br]Niech me życzenie prędko się ziści,[br]magia pozwoli usłyszeć ich myśli...\";rarity=legendary;reqp=bh;resfire=6;sa=205;slow=83"
+    },
+    {
+      "id": 60342,
+      "name": "Miotła zmiecionej odwagi",
+      "icon": "neu/itm_triada_l3.gif",
+      "cl": 15,
+      "pr": 265,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=265;opis=Jeden z 18 składników legendarnego stroju Widma Triady. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 60341,
+      "name": "Kociołek bulgoczącej mądrości",
+      "icon": "neu/itm_triada_l2.gif",
+      "cl": 15,
+      "pr": 265,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=265;opis=Jeden z 18 składników legendarnego stroju Widma Triady. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 60340,
+      "name": "Świeca gasnącej sprawiedliwości",
+      "icon": "neu/itm_triada_l1.gif",
+      "cl": 15,
+      "pr": 265,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=265;opis=Jeden z 18 składników legendarnego stroju Widma Triady. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 60223,
+      "name": "Przeklęta klatka na ptaki",
+      "icon": "hel/helm1503.gif",
+      "cl": 9,
+      "pr": 649902,
+      "st": 0,
+      "stat": "absorb=2151;absorbm=1075;ac=358;binds;crit=2;critmval=6;di=446;heal=358;hp=1266;legbon=cleanse,265;lvl=265;opis=Triada wiedźm sprawowała władzę nad Tristam w czasach przed Wojną Magów. Tak jak jej siostry, Mądra - jedna z trio - także uległa podstępowi Pogardliwej Sybilli. Gdy opłakiwała Odważną, klęcząc nad martwym ciałem, wiedźma zaszła ją od tyłu i wcisnęła na jej głowę przeklętą klatkę na ptaki. Dno złotego więzienia złożone z pięciu ostrzy tym samym rozsunęło się, by chwilę później zdekapitować Mądrą i pozbawić życia drugiego członka Triady.;rarity=legendary;reqp=m;resfrost=6;reslight=10;sa=273"
+    },
+    {
+      "id": 60222,
+      "name": "Ofiara eliksiru hydrofilowego",
+      "icon": "hel/helm1502.gif",
+      "cl": 9,
+      "pr": 618954,
+      "st": 0,
+      "stat": "ac=746;act=1;binds;crit=2;energybon=28;heal=708;legbon=cleanse,265;lowcrit=2;lowevade=53;lvl=265;opis=Ziołowy napar zaoferowany Sprawiedliwej przez Sybillę doprawiony został kroplą stężonego eliksiru hydrofilowego. Gdy aromatyczna ciecz odbyła swą podróż przełykiem, członkini Triady w ciągu kilku sekund wyschła na wiór, a cała woda z jej ciała skondensowała się do postaci drobnego kryształka. Tym samym ostatnia ze sprawujących władzę wiedźm została wyeliminowana, a Sybilla nie miała już żadnych przeszkód, by w czasie Wojny Magów stanąć po stronie zła i nękać Werbin upiorami z Rodu Kruzo oraz najazdami kontrolowanych magią czerwonych orków.;rarity=legendary;reqp=pw;resfire=6;sa=207;slow=84"
+    },
+    {
+      "id": 60221,
+      "name": "Kaptur wyzwolenia ducha",
+      "icon": "hel/helm1501.gif",
+      "cl": 9,
+      "pr": 589480,
+      "st": 0,
+      "stat": "ac=574;act=12;binds;crit=2;dz=298;energybon=28;evade=27;legbon=anguish,265;lowevade=53;lvl=265;opis=Choć Pogardliwa Sybilla, w tajemnicy i z pomocą magów, knuła i oddawała się w objęcia zła, Triada nie dostrzegła tego zagrożenia... Gdy więc na głowę Odważnej trafił wyjątkowy prezent od Sybilli - kaptur pochodzący ze zniszczonego miasta Tass Zhil - ta nie spodziewała się podstępu. Chwilę później znieruchomiała i upadła na posadzkę, a dusza natychmiast opuściła jej ciało.;rarity=legendary;reqp=bht;resfrost=8;sa=273"
     },
     {
       "id": 37339,
@@ -23962,8 +24523,7 @@
       "cl": 12,
       "pr": 657773,
       "st": 0,
-      "stat": "binds;crit=2;critval=18;ds=160;energybon=29;evade=56;hp=4578;legbon=critred,280;lowcrit=2;lowevade=28;lvl=280;opis=W tym krysztale zamknięta była smocza dusza, która zyskała Wybrańcom przychylność smoczego boga. Choć rozpadł się, gdy duch opuścił swe więzienie, jego odłamki wciąż zachowały potężną moc. Wybrańcy podzielili je między siebie i użyli do stworzenia dwóch obrączek, by Hebrehoth pobłogosławił ich małżeństwo. Jeden pierścień związany jest z drugim, tak jak miłość wiąże smoczych kochanków...;rarity=legendary;reqp=bhw;sa=288",
-      "extendedID": "20110@280"
+      "stat": "binds;crit=2;critval=18;ds=160;energybon=29;evade=56;hp=4578;legbon=critred,280;lowcrit=2;lowevade=28;lvl=280;opis=W tym krysztale zamknięta była smocza dusza, która zyskała Wybrańcom przychylność smoczego boga. Choć rozpadł się, gdy duch opuścił swe więzienie, jego odłamki wciąż zachowały potężną moc. Wybrańcy podzielili je między siebie i użyli do stworzenia dwóch obrączek, by Hebrehoth pobłogosławił ich małżeństwo. Jeden pierścień związany jest z drugim, tak jak miłość wiąże smoczych kochanków...;rarity=legendary;reqp=bhw;sa=288"
     },
     {
       "id": 20099,
@@ -24827,8 +25387,7 @@
         "autolvl",
         "event-hallo-24",
         "event"
-      ],
-      "extendedID": "54236@300"
+      ]
     },
     {
       "id": 54071,
@@ -25010,8 +25569,7 @@
       "stat": "acdmg=53;binds;crit=1;dmg=3640,4449;ds=171;dz=171;energybon=30;evade=30;hp=2538;lvl=300;opis=Lodowa kula zawieszona na zmrożonym łańcuchu zmasakrowała w swojej historii zbyt wiele ciał i odebrała życie zbyt wielu istotom... Chcąc dzierżyć tę broń musisz wyzbyć się resztek sumienia - wtedy dopiero korbacz stanie ci się w pełni posłuszny.[br][br]Przedmiot wytworzony z użyciem cennych surowców pozyskanych ze złóż w Kopalni Krwawej Pychy.;rarity=legendary;reqp=b;sa=158;slow=94;socket_content=0;socket_fleeting_legbon=curse,300;wound=23,782",
       "tags": [
         "kopalnia-300"
-      ],
-      "extendedID": "49109@300"
+      ]
     },
     {
       "id": 49108,
@@ -25048,8 +25606,7 @@
         "autolvl",
         "event-hallo-23",
         "event"
-      ],
-      "extendedID": "48880@300"
+      ]
     },
     {
       "id": 47882,
@@ -25062,8 +25619,7 @@
         "autolvl",
         "one-night-casino",
         "event"
-      ],
-      "extendedID": "47882@300!slow"
+      ]
     },
     {
       "id": 47382,
@@ -25076,8 +25632,7 @@
       "tags": [
         "autolvl",
         "removed"
-      ],
-      "extendedID": "47382@300"
+      ]
     },
     {
       "id": 47381,
@@ -25090,8 +25645,7 @@
       "tags": [
         "autolvl",
         "removed"
-      ],
-      "extendedID": "47381@300!ac"
+      ]
     },
     {
       "id": 45488,
@@ -25168,8 +25722,7 @@
         "autolvl",
         "event",
         "event-wiel-24"
-      ],
-      "extendedID": "44129@300"
+      ]
     },
     {
       "id": 44055,
@@ -25182,8 +25735,7 @@
         "autolvl",
         "event-xmas-23",
         "event"
-      ],
-      "extendedID": "44055@300"
+      ]
     },
     {
       "id": 43700,
@@ -25288,8 +25840,7 @@
         "event",
         "autolvl",
         "event-autumn"
-      ],
-      "extendedID": "39742@300"
+      ]
     },
     {
       "id": 39730,
@@ -25303,8 +25854,7 @@
         "event",
         "autolvl",
         "event-autumn"
-      ],
-      "extendedID": "39730@300"
+      ]
     },
     {
       "id": 23324,
@@ -25371,8 +25921,7 @@
       "cl": 8,
       "pr": 1497605,
       "st": 0,
-      "stat": "ac=2520;act=16;artisanbon=188;dmgmul=3;dz=337;energybon=30;evade=90;hp=5051;lowevade=30;lvl=300;opis=Wystarczyło kilka precyzyjnych uderzeń krasnoludzkim młotem, aby uwolnić prawdziwą moc tej zbroi. [br]Gładka warstwa lodu sprawia, że żadne wrogie ostrze nie przebije się przez ten pancerz.;permbound;rarity=legendary;reqp=h;resfire=7;sa=383;socket_content=0",
-      "extendedID": "21926@300~57488"
+      "stat": "ac=2520;act=16;artisanbon=188;dmgmul=3;dz=337;energybon=30;evade=90;hp=5051;lowevade=30;lvl=300;opis=Wystarczyło kilka precyzyjnych uderzeń krasnoludzkim młotem, aby uwolnić prawdziwą moc tej zbroi. [br]Gładka warstwa lodu sprawia, że żadne wrogie ostrze nie przebije się przez ten pancerz.;permbound;rarity=legendary;reqp=h;resfire=7;sa=383;socket_content=0"
     },
     {
       "id": 21924,
